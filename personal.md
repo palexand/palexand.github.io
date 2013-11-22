@@ -84,8 +84,8 @@ as printers, MFDs and routers.
 
 David Hilbert, International Congress of Mathematics, Paris, 1900
 
->...shootin fools and starry gazers, wizard hip and button down,
-> i walk the occam razor way through priests and circus clowns,
+> ...shootin fools and starry gazers, wizard hip and button down,  
+> i walk the occam razor way through priests and circus clowns,  
 > am i a missioner of faith or grace or vision or another grinning prisoner of happytown?
 
 Dave Carter, *Happytown*
