@@ -128,7 +128,7 @@ Friedrich Nietzsche
 
 Aldous Huxley
 
-
+<pre>
   The small man
   Builds cages
   For everyone
@@ -142,5 +142,6 @@ Aldous Huxley
   Beautiful
   Rowdy
   Prisoners.
+</pre>
 
 Shams-ud-din Muhammad (Hafiz)
