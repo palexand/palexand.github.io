@@ -24,8 +24,8 @@ Department of Electrical Engineering and Computer Science
 : Lawrence, KS 66045-7621
 
 Contact
-: Phone 785.864.7741
-: Fax 785.864.0387
+: 785-864-7741 (Voice)
+: 785-864-0387 (FAX)
 : perry_alexander (skype)
 : GPG Public Key
 
@@ -35,8 +35,8 @@ Contact
 
 Research interests include applied formal methods, system-level
 design, design and specification language semantics, and component
-retrieval. For more information, visit my [research | research]
-or the [ku-sldg.github.io | SLDG] pages.
+retrieval. For more information, visit my [research](research)
+or the [ku-sldg.github.io](SLDG) pages.
 
 # Teaching Interests
 
@@ -44,5 +44,5 @@ or the [ku-sldg.github.io | SLDG] pages.
 
 Teaching interests include formal methods, programming languages and
 semantics, digital systems design and software engineering. For more
-information, visit my [teaching | teaching] pages.
+information, visit my [teaching](teaching) pages.
 
