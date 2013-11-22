@@ -75,12 +75,12 @@ as printers, MFDs and routers.
 # Quotes
 
 > ... It is an error to believe that rigor in the proof is the enemy
-  of simplicity. On the contrary, we find it confirmed by numerous
-  examples that the rigorous method is at the same time the simpler
-  and the more easily comprehended. The very effort for rigor forces
-  us to find out simpler methods of proof. It also frequently leads
-  the way to methods which are more capable of development than the
-  old methods of less rigor.
+>  of simplicity. On the contrary, we find it confirmed by numerous
+>  examples that the rigorous method is at the same time the simpler
+>  and the more easily comprehended. The very effort for rigor forces
+>  us to find out simpler methods of proof. It also frequently leads
+>  the way to methods which are more capable of development than the
+>  old methods of less rigor.
 
 David Hilbert, International Congress of Mathematics, Paris, 1900
 
@@ -107,16 +107,16 @@ Epictetus
 Friedrich Nietzsche 
 
 > 'The best thing for being sad,' replied Merlin, beginning to puff
-  and blow, 'is to learn something. That is the only thing that never
-  fails. You may grow old and trembling in your anatomies, you may lie
-  awake at night listening to the disorder of your veins, you may miss
-  your only love, you may see the world around you devastated by evil
-  lunatics, or know your honour trampled in the sewers of baser
-  minds. There is only one thing for it then – to learn. Learn why the
-  world wags and what wags it. That is the only thing which the mind
-  can never exhaust, never alienate, never be tortured by, never fear
-  or distrust, and never dream of regretting. Learning is the thing
-  for you.'
+>  and blow, 'is to learn something. That is the only thing that never
+>  fails. You may grow old and trembling in your anatomies, you may lie
+>  awake at night listening to the disorder of your veins, you may miss
+>  your only love, you may see the world around you devastated by evil
+>  lunatics, or know your honour trampled in the sewers of baser
+>  minds. There is only one thing for it then – to learn. Learn why the
+>  world wags and what wags it. That is the only thing which the mind
+>  can never exhaust, never alienate, never be tortured by, never fear
+>  or distrust, and never dream of regretting. Learning is the thing
+>  for you.'
 
 T.H. White, *The Once and Future King*
 
@@ -129,18 +129,18 @@ Friedrich Nietzsche
 Aldous Huxley
 
 
-> The small man
-> Builds cages
-> For everyone
-> He
-> Knows
-> While the sage,
-> Who has to duck his head
-> When the moon is low,
-> Keeps dropping keys all night long
-> For the
-> Beautiful
-> Rowdy
-> Prisoners.
+  The small man
+  Builds cages
+  For everyone
+  He
+  Knows
+  While the sage,
+  Who has to duck his head
+  When the moon is low,
+  Keeps dropping keys all night long 
+  For the
+  Beautiful
+  Rowdy
+  Prisoners.
 
 Shams-ud-din Muhammad (Hafiz)
