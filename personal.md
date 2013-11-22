@@ -128,20 +128,18 @@ Friedrich Nietzsche
 
 Aldous Huxley
 
-<pre>
-  The small man
-  Builds cages
-  For everyone
-  He
-  Knows
-  While the sage,
-  Who has to duck his head
-  When the moon is low,
-  Keeps dropping keys all night long 
-  For the
-  Beautiful
-  Rowdy
-  Prisoners.
-</pre>
+> The small man  
+> Builds cages  
+> For everyone  
+> He  
+> Knows  
+> While the sage,  
+> Who has to duck his head  
+> When the moon is low,  
+> Keeps dropping keys all night long  
+> For the  
+> Beautiful  
+> Rowdy  
+> Prisoners.  
 
 Shams-ud-din Muhammad (Hafiz)
