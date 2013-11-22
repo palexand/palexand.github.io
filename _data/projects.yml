@@ -1,6 +1,6 @@
 - name: ArmoredSoftware
   github: armoredsoftware
-  repo: ArmoredSoftware
+  repo: 
   description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that peform appraisal, attestation and measurement."
   sponsor: DoD
 
@@ -11,7 +11,7 @@
   sponsor: DARPA
 
 - name: Verified TPM
-  github: palexand
+  github: ku-sldg
   repo: verified-tpm12
   description: "The objective of the Verified TPM project is to formally specify and verify critical properties of the TPM 1.2."
   sponsor: Battelle, DoD

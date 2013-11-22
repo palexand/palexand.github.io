@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Projects
+title: Research
 ---
 
 # Active Projects
