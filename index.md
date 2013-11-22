@@ -27,7 +27,7 @@ Contact
 : 785-864-7741 (Voice)
 : 785-864-0387 (FAX)
 : perry_alexander (skype)
-: [resources/PerryAlexander.asc](GPG Public Key)
+: resources/PerryAlexander.asc](GPG Public Key
 
 # Research Interests
 
