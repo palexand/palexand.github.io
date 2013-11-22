@@ -15,5 +15,4 @@ title: Teaching
 
 {% endfor %}
 
-# Inactive Projects
 
