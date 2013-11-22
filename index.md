@@ -36,7 +36,7 @@ Contact
 Research interests include applied formal methods, system-level
 design, design and specification language semantics, and component
 retrieval. For more information, visit my [research](research)
-or the [ku-sldg.github.io](SLDG) pages.
+or the [SLDG](ku-sldg.github.io) pages.
 
 # Teaching Interests
 
