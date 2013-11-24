@@ -32,8 +32,9 @@ Contact
 Current Courses
 {% for class in site.data.teaching %}
 {% if time == nil %}
+: nil
 {% else %}
-:{{ class.name }} at {{ class.time }} in {{ class.place }}</li>
+: {{ class.name }} at {{ class.time }} in {{ class.place }}</li>
 {% endif %}
 {% endfor %}
 
