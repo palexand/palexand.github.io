@@ -30,7 +30,9 @@ Contact
 : [GPG Public Key](resources/PerryAlexander.asc)
 
 Current Courses
+{% for course in site.data.teaching %}
 : yep
+{% endfor %}
 
 # Research Interests
 
