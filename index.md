@@ -29,14 +29,6 @@ Contact
 : perry_alexander (skype)
 : [GPG Public Key](resources/PerryAlexander.asc)
 
-Current Courses
-{% for course in site.data.teaching %}
-{% if when == nil %}
-: nil
-{% else %}
-: {{ course.name }} at {{ course.when }} in {{ course.where }}</li>
-{% endif %}
-{% endfor %}
 
 # Research Interests
 
