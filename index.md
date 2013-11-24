@@ -24,6 +24,7 @@ Department of Electrical Engineering and Computer Science
 : Lawrence, KS 66045-7621
 
 Contact
+: palexand \[at\] ku \[dot\] edu
 : 785-864-7741 (Voice)
 : 785-864-0387 (FAX)
 : perry_alexander (skype)
