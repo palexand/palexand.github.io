@@ -31,7 +31,7 @@ Contact
 
 Current Courses
 {% for course in site.data.teaching %}
-: yep
+: yep 2
 {% endfor %}
 
 # Research Interests
