@@ -30,11 +30,11 @@ Contact
 : [GPG Public Key](resources/PerryAlexander.asc)
 
 Current Courses
-{% for class in site.data.teaching %}
+{% for course in site.data.teaching %}
 {% if time == nil %}
 : nil
 {% else %}
-: {{ class.name }} at {{ class.time }} in {{ class.place }}</li>
+: {{ course.name }} at {{ course.when }} in {{ course.where }}</li>
 {% endif %}
 {% endfor %}
 
