@@ -32,7 +32,7 @@ Contact
 <dl>
 <dt>Current Courses</dt>
 {% for course in site.data.teaching %}
-{% if when == nil %}
+{% if course.when == nil %}
 {% else %}
 <dd>{{ course.name }} at {{ course.when }} in {{ course.where }}</dd>
 {% endif %}
