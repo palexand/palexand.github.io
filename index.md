@@ -37,7 +37,6 @@ Contact
 <dd>{{ course.name }} at {{ course.when }} in {{ course.where }}</dd>
 {% endif %}
 {% endfor %}
-
 </dl>
 
 # Teaching
