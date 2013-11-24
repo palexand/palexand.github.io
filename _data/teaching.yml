@@ -2,8 +2,12 @@
   github: palexand
   repo: eecs662
   description: This course is an undergraduate introduction to programming language concepts. It is taught by implementing a collection of interpreters that implement language features. Specific topics include structuring an interpreter, abstract syntax, early and late binding, laziness and strictness, function definition and application, static an dynamic scoping, and techniques for implementing these features.
+  time:
+  place:
 
 - name: EECS 762 - Programming Language Foundations I
   github: palexand
   repo: eecs762
   description: Programming Language Fundamentals is an introduction to the semantics of programming languages. The course will present modern approaches for defining dynamic and static semantics as well as verifying definitions and implementing interpreters. We will start with dynamic semantics defining languages using operational, denotational, and axiomatic semantics. We will then overview domain theory and being looking at static semantics and types. The course concentrates on pragmatic issues and requires both specification and verification of semantics and implementation of interpreters.
+  time:
+  place:
