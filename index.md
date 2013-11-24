@@ -28,7 +28,6 @@ Contact
 : 785-864-0387 (FAX)
 : perry_alexander (skype)
 : [GPG Public Key](resources/PerryAlexander.asc)
-
 <dl>
 <dt>Current Courses</dt>
 {% for course in site.data.teaching %}
