@@ -31,7 +31,6 @@ Contact
 
 <dl>
 <dt>Current Courses</dt>
-
 {% for course in site.data.teaching %}
 {% if when == nil %}
 {% else %}
