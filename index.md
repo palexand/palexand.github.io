@@ -49,12 +49,6 @@ My teaching interests include formal methods, programming languages and
 semantics, digital systems design and software engineering. For more
 information on courses I teach, visit my [teaching](teaching) pages.
 
-Current Courses
-{% for course in site.data.teaching %}
-: yep 2
-{% endfor %}
-
-
 # Research
 
 ----
