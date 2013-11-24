@@ -30,7 +30,7 @@ Contact
 : [GPG Public Key](resources/PerryAlexander.asc)
 
 Current Courses
-{% for class in site.teaching %}
+{% for class in site.data.teaching %}
 {% if time == nil %}
 :nil
 {% else %}
