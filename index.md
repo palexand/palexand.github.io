@@ -29,14 +29,13 @@ Contact
 : perry_alexander (skype)
 : [GPG Public Key](resources/PerryAlexander.asc)
 
-<ul>
+Current Courses
 {% for class in site.teaching %}
 {% if time == nil %}
 {% else %}
-<li>{{class.name}} at {{ class.time }} in {{ class.place }}</li>
+:{{class.name}} at {{ class.time }} in {{ class.place }}</li>
 {% endif %}
 {% endfor %}
-</ul>
 
 # Research Interests
 
