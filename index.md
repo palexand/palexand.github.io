@@ -34,7 +34,7 @@ Contact
 {% for course in site.data.teaching %}
 {% if course.when == nil %}
 {% else %}
-<dd>{{ course.name }} at {{ course.when }} in {{ course.where }}</dd>
+<dd><a href="">{{ course.name }}</a> at {{ course.when }} in {{ course.where }}</dd>
 {% endif %}
 {% endfor %}
 </dl>
