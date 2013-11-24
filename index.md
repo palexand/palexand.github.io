@@ -37,6 +37,7 @@ Contact
 <dd><a href="http://{{ course.github }}.github.io/{{ course.repo }}">{{ course.name }}</a> - {{ course.when }} in {{ course.where }}</dd>
 {% endif %}
 {% endfor %}
+<dd>Office Hours - {{ site.ohrs }} in 2022 Eaton Hall</dd>
 </dl>
 
 # Teaching
