@@ -29,21 +29,8 @@ Contact
 : perry_alexander (skype)
 : [GPG Public Key](resources/PerryAlexander.asc)
 
-Current Courses
-{% for course in site.data.teaching %}
-: yep 2
-{% endfor %}
 
-# Research Interests
-
-----
-
-My research interests include formal methods, system-level
-design, trusted computing, design and specification language
-semantics, and component retrieval. For more information, visit my
-[research](research) or the [SLDG](http://ku-sldg.github.io) pages.
-
-# Teaching Interests
+# Teaching
 
 ----
 
@@ -51,3 +38,17 @@ My teaching interests include formal methods, programming languages and
 semantics, digital systems design and software engineering. For more
 information on courses I teach, visit my [teaching](teaching) pages.
 
+Current Courses
+{% for course in site.data.teaching %}
+: yep 2
+{% endfor %}
+
+
+# Research
+
+----
+
+My research interests include formal methods, system-level
+design, trusted computing, design and specification language
+semantics, and component retrieval. For more information, visit my
+[research](research) or the [SLDG](http://ku-sldg.github.io) pages.
