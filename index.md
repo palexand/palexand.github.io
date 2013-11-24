@@ -42,7 +42,7 @@ Current Courses
 
 ----
 
-Research interests include formal methods, system-level
+My research interests include formal methods, system-level
 design, trusted computing, design and specification language
 semantics, and component retrieval. For more information, visit my
 [research](research) or the [SLDG](http://ku-sldg.github.io) pages.
@@ -51,7 +51,7 @@ semantics, and component retrieval. For more information, visit my
 
 ----
 
-Teaching interests include formal methods, programming languages and
+My teaching interests include formal methods, programming languages and
 semantics, digital systems design and software engineering. For more
 information on courses I teach, visit my [teaching](teaching) pages.
 
