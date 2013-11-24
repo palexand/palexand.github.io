@@ -29,6 +29,17 @@ Contact
 : perry_alexander (skype)
 : [GPG Public Key](resources/PerryAlexander.asc)
 
+<dl>
+<dt>Current Courses</dt>
+
+{% for course in site.data.teaching %}
+{% if when == nil %}
+{% else %}
+<dd>{{ course.name }} at {{ course.when }} in {{ course.where }}</dd>
+{% endif %}
+{% endfor %}
+
+</dl>
 
 # Teaching
 
