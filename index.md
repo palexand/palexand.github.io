@@ -33,7 +33,7 @@ Current Courses
 {% for class in site.teaching %}
 {% if time == nil %}
 {% else %}
-:{{class.name}} at {{ class.time }} in {{ class.place }}</li>
+:{{ class.name }} at {{ class.time }} in {{ class.place }}</li>
 {% endif %}
 {% endfor %}
 
