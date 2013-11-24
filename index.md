@@ -53,5 +53,5 @@ semantics, and component retrieval. For more information, visit my
 
 Teaching interests include formal methods, programming languages and
 semantics, digital systems design and software engineering. For more
-information, visit my [teaching](teaching) pages.
+information on courses I teach, visit my [teaching](teaching) pages.
 
