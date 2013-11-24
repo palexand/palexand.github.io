@@ -31,7 +31,7 @@ Contact
 
 Current Courses
 {% for course in site.data.teaching %}
-{% if time == nil %}
+{% if when == nil %}
 : nil
 {% else %}
 : {{ course.name }} at {{ course.when }} in {{ course.where }}</li>
