@@ -3,7 +3,8 @@ layout: blog
 categories: blog music
 title: The Beach Boys
 ---
-I'm sitting here listening and reading back issues of *Paste( and found
+
+I'm sitting here listening and reading back issues of *Paste* and found
 a fascinating read on The Beach Boys with some words I’ve never seen
 before. I completely ignored The Beach Boys for most of my musical
 life. When I was a serious jazzer listening to such serious jazz
