@@ -5,7 +5,8 @@ title: Personal
 
 # Artists, Music and Gear
 
-I keep a [blog](blog.html) where I describe some of the artists and music I listen
+I keep a [blog](blog.html) where I describe some of the artists and
+music I listen 
 to and the stereo gear that I use for playback.I find it exceedingly
 difficult to find new music that I enjoy. My interests are pretty
 eclectic ranging from jazz through indie pop and folk to ska with
