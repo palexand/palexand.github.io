@@ -1,7 +1,7 @@
 ---
 layout: blog
 categories: blog music
-title: At Filmore East - The Allman Brothers Band
+title: Modern Vampire in the City - Vampire Weekend
 ---
 
 I got this album from iTunes based on a one song preview and a rating
