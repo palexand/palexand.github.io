@@ -13,6 +13,8 @@ title: {{ site.title }}
 
 {{ post.excerpt }}
 
+<a href="{{ site.baseurl }}{{ post.url }}">More...</a>
+
 -----
 
 {% endfor %}
