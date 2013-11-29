@@ -1,4 +1,4 @@
-___
+---
 layout: blog
 categories: blog gear
 title: Bryston BDP-2
