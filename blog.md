@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: frontblog
 title: {{ site.title }}
 ---
 
