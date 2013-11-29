@@ -1,3 +1,9 @@
+---
+layout: blog
+categories: blog music
+title: Until Tomorrow - Zara McFarlane
+---
+
 Just a quick note on Zara McFarlane's album *Until Tomorrow*.  Very nice
 classic jazz vocal album featuring Zara and a small ensemble.  I like
 most of the tracks pretty well.  Of particular interest are *Mama Done*,
