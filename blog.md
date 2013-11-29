@@ -11,7 +11,7 @@ title: {{ site.title }}
 
 {{ post.date | date_to_string }}
 
-{{ post.content }}
+{{ post.excerpt }}
 
 -----
 
