@@ -11,7 +11,9 @@ title: {{ site.title }}
 
 {{ post.date | date_to_string }}
 
-{{ post.excerpt }}
+<p>{{ post.excerpt }}</p>
+
+<p><a href="{{ site.baseurl }}{{ post.url }}">More...</a></p>
 
 -----
 
