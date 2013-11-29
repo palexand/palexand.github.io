@@ -1,9 +1,9 @@
 ---
-layout: frontpage
+layout: frontblog
 title: {{ site.title }}
 ---
 
-# Blog
+# Gear Blog
 
 {% for post in site.categories.gear %}
 

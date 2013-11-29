@@ -3,9 +3,9 @@ layout: frontblog
 title: {{ site.title }}
 ---
 
-# Music Blog
+# Movies Blog
 
-{% for post in site.categories.music %}
+{% for post in site.categories.movies %}
 
 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
