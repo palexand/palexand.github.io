@@ -15,3 +15,7 @@ Testing... again...
   (lambda (x) (+ 1 x)))
 {% endhighlight %}
 
+{% highlight haskell %}
+inc :: int -> int
+inc x = x+1
+{% endhighlight %}
