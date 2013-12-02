@@ -1,12 +1,12 @@
 ---
-layout: blogMath
+layout: blog
 categories: blog gear
 title: Test some math
 ---
 
 Testing...
 
-Testing... again...
+Testing... again... and again....
 
 \\[\Sigma x^2\Rightarrow y_1\\]
 
