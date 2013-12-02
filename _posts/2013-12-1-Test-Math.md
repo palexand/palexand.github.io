@@ -9,3 +9,9 @@ Testing...
 Testing... again...
 
 \\[\Sigma x^2\Rightarrow y_1\\]
+
+{% highlight scheme %}
+(define inc
+  (lambda (x) (+ 1 x)))
+{% endhighlight %}
+
