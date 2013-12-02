@@ -1,5 +1,5 @@
 ---
-layout: blogMath
+layout: blog
 categories: blog gear
 title: Test some math
 ---
