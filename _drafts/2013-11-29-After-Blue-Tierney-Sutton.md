@@ -19,26 +19,26 @@ album.  What many don't remember is that she worked as much with jazz
 players as she did as a folk musician.  In fact, she was frustrated by
 the label of a folk musician.  She had a wonderful relationship with
 Charles Mingus and I have an album she did with a young Pat Metheny
-and Jaco Pastorius.  *Don Juan's Beautiful Daughter* is considered a
+and Jaco Pastorius.  *Don Juan's Reckless Daughter* is considered a
 classic as is *Blue* among many others.
 
 I guess what I'm getting at is that if you make a jazz album of Joni
 Mitchell tunes you have quite a bit to work with.  After much ado and
-intro, let me say that Tierney does absolutely brilliant work with
+intro, let me say that Tierney Sutton does absolutely brilliant work with
 Mitchell's songs.  They are definitely sung in a wonderful jazz style,
 but she goes to great effort to preserve the structure and integrity
 of each song.  If you care at all for vocal jazz, this is an album you
 really must own.
 
 *Big Yellow Taxi* is a virtual requirement for covering Joni
- Mitchell.  It's my second favorite track on the album with Sutton
- romping over the changes of a classic folk tune.  She takes liberties
- with the intro doing a nice little skat to open.  Backed only by a
- snare and kick drum, she launches into the verse with a nice jazzy
- take.  Rather than kicking in a full ensemble, she stays with only
- the drum backing her voice and throws in some nice improv work.  I
- keep waiting for the full ensemble to appear, but it never does.  And
- it always works.  Exceptionally nice track.
+Mitchell.  It's my second favorite track on the album with Sutton
+romping over the changes of a classic folk tune.  She takes liberties
+with the intro doing a nice little skat to open.  Backed only by a
+snare and kick drum, she launches into the verse with a nice jazzy
+take.  Rather than kicking in a full ensemble, she stays with only
+the drum backing her voice and throws in some nice improv work.  I
+keep waiting for the full ensemble to appear, but it never does.  And
+it always works.  Exceptionally nice track.
 
 Sutton's version of *Both Sides Now* is simply breathtaking. It is
 perfection in terms of style, her vocals, and the cello work behind
