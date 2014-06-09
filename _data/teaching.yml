@@ -1,3 +1,10 @@
+# name : Course number and title
+# github : Github account for repo
+# repo : actual Github repo name
+# description : short description
+# when : time for the coures - leave off if not currently teaching
+# where : classroom - leave off if not currently teaching
+
 - name: EECS 662 - Programming Languages
   github: palexand
   repo: eecs662
