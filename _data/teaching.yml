@@ -14,6 +14,8 @@
   github: palexand
   repo: eecs762
   description: Programming Language Fundamentals is an introduction to the semantics of programming languages. The course will present modern approaches for defining dynamic and static semantics as well as verifying definitions and implementing interpreters. We will start with dynamic semantics defining languages using operational, denotational, and axiomatic semantics. We will then overview domain theory and being looking at static semantics and types. The course concentrates on pragmatic issues and requires both specification and verification of semantics and implementation of interpreters.
+  when: 4:00-5:15 TR
+  where: 3153 Learned Hall
 
 - name: EECS 755 - Software Requirements Modeling
   github: palexand
@@ -24,3 +26,6 @@
   github: palexand
   repo: hnrs190
   description: The Freshman Honors Tutorial is a one hour class introducing freshman honors program students to research and KU.  My section looks at the early days of computing focusing on how computing came to be and why.  We look at work by the major early computing scholars and put their work in the context of World War II.  We also look a that the limitations of computing and what we know about what can and cannot be computed mechanically
+  when: 1:00-2:15 R
+  where: 108 Nunemaker Center
+  
