@@ -3,9 +3,7 @@ layout: frontpage
 title: Dr. Perry Alexander
 ---
 
-**Dr. Perry Alexander** is a Professor in the Department of Electrical
-and Computer Engineering and Director of the Information and
-Telecommunication Technology Center at the University of Kansas.
+**Dr. Perry Alexander** is the AT&T Distinguished Professor of Electrical and Computer Science and Director of the Information and Telecommunication Technology Center at the University of Kansas.  His research and teaching interests include formal verification and synthesis, trusted systems, and programming language semantics.
 
 # Information
 
@@ -45,9 +43,7 @@ Contact
 
 ----
 
-My teaching interests include formal methods, programming languages and
-semantics, digital systems design and software engineering. For more
-information on courses I teach, visit my [teaching](teaching) pages.
+My teaching interests include formal methods, programming languages and semantics, digital systems design and software engineering. For more information on courses I teach, visit my [teaching](teaching) pages.
 
 # Research
 
