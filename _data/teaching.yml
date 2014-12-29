@@ -14,18 +14,21 @@
   github: palexand
   repo: eecs762
   description: Programming Language Fundamentals is an introduction to the semantics of programming languages. The course will present modern approaches for defining dynamic and static semantics as well as verifying definitions and implementing interpreters. We will start with dynamic semantics defining languages using operational, denotational, and axiomatic semantics. We will then overview domain theory and being looking at static semantics and types. The course concentrates on pragmatic issues and requires both specification and verification of semantics and implementation of interpreters.
-  when: 4:00-5:15 TR
-  where: 3153 Learned Hall
 
 - name: EECS 755 - Software Requirements Modeling
   github: palexand
   repo: eecs755
   description: Software Requirements Modeling and Analysis is an advanced introduction to modern techniques for specification, verification and implementation of computer-based systems. Topics covered are equally useful for hardware and software verification. We will learn to write formal specifications, refine specifications and verify that implementations meet their requirements. Specific topics include axiomatic specification, invariants, algebraic types and induction, constructive specification, assume-guarantees style specification, safety and liveness, and natural deduction. Currently we use the PVS proof tool and the SAL model checker, but techniques learned apply equally well to other verification systems.
 
+- name: EECS 800 - Decision Procedures & Model Checking
+  github: palexand
+  repo: eecs800
+  description: Decision Procedures & Model Checking is an advanced introduction to decision procedures and model checking. Decision procedures are programs that take a logic problem and terminate a ‘yes’ or ‘no’ answer. They are exceptionally common in software and hardware verification, compilation, theorem proving, and model checking. Model checkers are frequently implemented with decision procedures and introduce temporal logics useful for verifying stateful systems. In this course, we will examine both theoretical and implementation issues focusing on SAT techniques, Equality, Uninterpreted Functions, Quantified Formulas, Theory Combination, LTL and CTL, explicit state modeling techniques, BDD-based modeling techniques, k-induction, safety and liveness properties, abstraction and bisimulation, and theoretical foundations.
+  when: TBD
+  where: TBD
+
 - name: HNRS 190 - Honors Tutorial
   github: palexand
   repo: hnrs190
   description: The Freshman Honors Tutorial is a one hour class introducing freshman honors program students to research and KU.  My section looks at the early days of computing focusing on how computing came to be and why.  We look at work by the major early computing scholars and put their work in the context of World War II.  We also look a that the limitations of computing and what we know about what can and cannot be computed mechanically
-  when: 1:00-2:15 R
-  where: 108 Nunemaker Center
   
