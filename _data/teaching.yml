@@ -24,8 +24,8 @@
   github: palexand
   repo: eecs800
   description: Decision Procedures & Model Checking is an advanced introduction to decision procedures and model checking. Decision procedures are programs that take a logic problem and terminate a ‘yes’ or ‘no’ answer. They are exceptionally common in software and hardware verification, compilation, theorem proving, and model checking. Model checkers are frequently implemented with decision procedures and introduce temporal logics useful for verifying stateful systems. In this course, we will examine both theoretical and implementation issues focusing on SAT techniques, Equality, Uninterpreted Functions, Quantified Formulas, Theory Combination, LTL and CTL, explicit state modeling techniques, BDD-based modeling techniques, k-induction, safety and liveness properties, abstraction and bisimulation, and theoretical foundations.
-  when: TBD
-  where: TBD
+  when: 4:00-5:15 TR
+  where: 208 Nichols
 
 - name: HNRS 190 - Honors Tutorial
   github: palexand
