@@ -3,7 +3,7 @@ layout: frontpage
 title: Dr. Perry Alexander
 ---
 
-**Dr. Perry Alexander** is the AT&T Distinguished Professor of Electrical and Computer Science and Director of the Information and Telecommunication Technology Center at the University of Kansas.  His research and teaching interests include formal verification and synthesis, trusted systems, and programming language semantics.
+**Dr. Perry Alexander** is the AT&T Foundation Distinguished Professor of Electrical and Computer Science and Director of the Information and Telecommunication Technology Center at the University of Kansas.  His research and teaching interests include formal verification and synthesis, trusted systems, and programming language semantics.
 
 # Information
 
