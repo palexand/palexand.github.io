@@ -19,8 +19,8 @@
   github: palexand
   repo: eecs755
   description: Software Requirements Modeling and Analysis is an advanced introduction to modern techniques for specification, verification and implementation of computer-based systems. Topics covered are equally useful for hardware and software verification. We will learn to write formal specifications, refine specifications and verify that implementations meet their requirements. Specific topics include axiomatic specification, invariants, algebraic types and induction, constructive specification, assume-guarantees style specification, safety and liveness, and natural deduction. Currently we use the Coq verification tool, but techniques learned apply equally well to other verification systems.
-#  when: 9:30-10:45 TR
-#  where: 1131 Learned Hall
+  when: 9:30-10:45 TR
+  where: 1131 Learned Hall
 
 - name: EECS 800 - Decision Procedures & Model Checking
   github: palexand
@@ -31,6 +31,5 @@
   github: palexand
   repo: hnrs190
   description: The Freshman Honors Tutorial is a one hour class introducing freshman honors program students to research and KU.  My section looks at the early days of computing focusing on how computing came to be and why.  We look at work by the major early computing scholars and put their work in the context of World War II.  We also look a that the limitations of computing and what we know about what can and cannot be computed mechanically
-#  when: TBD
-#  where: TBD
-    
+  when: 4:00-5:15 M
+  where: 108 Nunemaker
