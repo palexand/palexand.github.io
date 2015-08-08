@@ -19,3 +19,8 @@ Testing... again... and again....
 inc :: int -> int
 inc x = x+1
 {% endhighlight %}
+
+{% highlight coq %}
+Defintion inc(n:nat) : nat := n + 1.
+{% endhighlight %}
+
