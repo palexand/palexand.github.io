@@ -17,7 +17,6 @@ My current home setup for music:
 My current work system includes:
 
 * Benchmark DAC1 D/A
-* Classe' CP-47.5 preamp
 * Bryston 3NRB amp
 * PSB Alpha speakers
 * Grado RS2e headphones
