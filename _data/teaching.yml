@@ -24,7 +24,7 @@
 
 - name: EECS 843 - Programming Language Foundations II
   github: palexand
-  repo: eecs864
+  repo: eecs843
   description: Programming Language Foundation II is an advanced introduction to programming language concepts, primarily related to type systems.  Topics covered vary from one offering to the next, but typically include recursive types, universally quantified types, System F, existentially quantified types, type operations and dependent types, System F-Omega and advanced subtyping techniques.  We will learn to define and verify semantics for type systems and algorithms for deciding type judgments.  Programming Language Foundations I or equivalent is a hard prerequisite for this course.
   when: 1:00-2:15
   where: 2111 Learned Hall
