@@ -28,17 +28,9 @@ Inductive *name* : Type :=
   | *value* : *name*.
 {% endhighlight %}
 
-Where:
+Where *name* is the name of the new type and each *value* : *name* pair represents a value in the type.  Think of this as defining a type as a set by listing all its elements.
 
-* `Inductive` - keyword indicating an inductive type
-- *name* - new type name
-* `:` - type relation
-- `Type` - keyword indicating a type definition
-- `:=` - assigns a value to the type
-- `|` *value* `:` *name*  - one value of the type `name`
-- `.` - definition terminator
-
-Writing functions over `stoplight` is done using pattern matching:
+Writing functions over the `stoplight` type is done using pattern matching:
 
 {% highlight coq %}
 Definition next_color(s:stoplight) : stoplight :=
@@ -49,29 +41,9 @@ Definition next_color(s:stoplight) : stoplight :=
    end.
 {% endhighlight %}
 
-This function is an *observer* of the type `stoplight`.  It defines a property over all possible stoplight values.  Defining constructors and observers over those constructors is a common specification technique called *constructive specification*.  We will come back to this concept later, but for now simply remember that we can define sets of things and their properties in this way.
+`next_color` is a function of type `stoplight->stoplight`.  The value of the function uses `match` to determine what to do for specific cases of `s` ^[note].  In this case, the function defines a standard next state function for a US stoplight.
 
-Using `Definition` is a common way to give paramterized expressions names.  The general form is:
-
-{% highlight coq %}
-Definition *name*(*params*) : *type* := *value*.
-{% endhighlight %}
-
-Where:
-
-* `Definition` - keyword indicating a new definition
-* *name* - the name of the new thing being defined
-* *params* - optional parameter list
-* *type* - the type of the newly defined thing
-* *value* - the value of the newly defined thing
-
-The `match` expression is performing a pattern match on `d`.  In this case, a trivial pattern match on the values of `day`.  You have to cover them all, or Coq will tell you.
-
-Notice the form of both definitions:
-
-	*keyword* *name* *params* : *type* := *value*.
-
-Everything in Coq is defined in roughly the same way.
+The `next_color` function is an *observer* of the type `stoplight`.  It defines a property over all possible stoplight values.  Defining constructors and observers over those constructors is a common specification technique called *constructive specification*.  We will come back to this concept later.
 
 You can check out how `next_color` works using `Eval`:
 
@@ -80,15 +52,17 @@ Eval compute in (next_color red).
 Eval compute in (next_color (next_color green).
 {% endhighlight %}
 
-You can also do proofs over `next_color` and `stoplight`:
+We'll come back to `compute` later, but these examples use `Eval` to apply the proof tactic `compute` to an expression resulting in a kind of execution.  Don't get too hung up on the details of `Eval` for right now.
+
+You can also do proofs over `next_color` and `stoplight` values.  Here is a proof that evaluating `next_color` on `red` is always `green`:
 
 {% highlight coq %}
 Example test_next_color:
    (next_color (next_color red)) = green.
-Proof. simpl. reflexivity. Qed.
+Proof. reflexivity. Qed.
 {% endhighlight %}
 
-A more interesting proof would be:
+A more interesting proof establishes that `next_color` is irreflexive - its output is never its input:
 
 {% highlight coq %}
 Theorem irreflexive_next_color:
@@ -121,3 +95,29 @@ Extraction next_color.
 {% endhighlight %}
 
 You now have a definition of `stoplight` that is guaranteed to be irreflexive as proved in the theorem.
+
+[^note]: Coq uses a reasonably standard form of pattern matching in its `match` expression.  If you don't understand it, take a look at what Haskell or ML do.
+
+---
+
+Using `Definition` is a common way to give paramterized expressions names.  The general form is:
+
+{% highlight coq %}
+Definition *name*(*params*) : *type* := *value*.
+{% endhighlight %}
+
+Where:
+
+* `Definition` - keyword indicating a new definition
+* *name* - the name of the new thing being defined
+* *params* - optional parameter list
+* *type* - the type of the newly defined thing
+* *value* - the value of the newly defined thing
+
+The `match` expression is performing a pattern match on `d`.  In this case, a trivial pattern match on the values of `day`.  You have to cover them all, or Coq will tell you.
+
+Notice the form of both definitions:
+
+	*keyword* *name* *params* : *type* := *value*.
+
+Everything in Coq is defined in roughly the same way.
