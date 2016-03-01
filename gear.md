@@ -13,6 +13,7 @@ My current home setup for music:
 * Benchmark DAC2 D/A
 * Audio Research LS26 preamp
 * Symmetra SymNet 8x8 DSP
+* ATI AT3000 Amplifiers
 * Custom Russ Berger Design Group studio monitors
 
 My current work system includes:
