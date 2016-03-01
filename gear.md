@@ -9,10 +9,11 @@ My current home setup for music:
 
 * Bryston BDP-2 media player
 * Rega RP-1 turntable with stock stylus
+* Lucid Labs Catalyst HH phono stage
 * Benchmark DAC2 D/A
 * Audio Research LS26 preamp
-* Parasound A21 amp
-* Snell C/V speakers
+* Symmetra SymNet 8x8 DSP
+* Custom Russ Berger Design Group studio monitors
 
 My current work system includes:
 
