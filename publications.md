@@ -6,6 +6,7 @@ title: Publications
 # Selected Publications
 
 * Alexander, P., L. Pike, P. Loscocco, G. Coker, "Model Checking Distributed Mandatory Access Control Policies," in *ACM Transactions on Information and System Security (TISSEC)* **2**(18), 2015.
+
 * Austin, E. and P. Alexander, "Challenges Implementing an LCF-Style Proof System with Haskell," in *Proceedings of the International Workshop on Design and Implementation of Formal Tools and Systems (DIFTS’15)*, Austin, Texas USA, September 26-27, 2015.
 
 * Austin, E. and P. Alexander, "Stateless Higher-Order Logic with Quantified Types," International Conference on Interactive Theorem Proving (ITP’13), LNCS 7998, Rennes, France, July 2013.
