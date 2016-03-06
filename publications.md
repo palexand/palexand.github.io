@@ -5,66 +5,37 @@ title: Publications
 
 # Selected Publications
 
-* Halling, B. and P. Alexander, "Verifying TPM Protocols Using a State
-  Monad," submitted to The 19th International Symposium on Formal
-  Methods (FM'14), Singapore, May 14–16, 2014 
+* Alexander, P., L. Pike, P. Loscocco, G. Coker, "Model Checking Distributed Mandatory Access Control Policies," in *ACM Transactions on Information and System Security (TISSEC)* **2**(18), 2015.
 
-* Austin, E. and P. Alexander, "Stateless Higher-Order Logic with
-  Quantified Types," International Conference on Interactive Theorem
-  Proving (ITP’13), LNCS 7998, Rennes, France, July 2013.
+* Austin, E. and P. Alexander, "Challenges Implementing an LCF-Style Proof System with Haskell," in *Proceedings of the International Workshop on Design and Implementation of Formal Tools and Systems (DIFTS’15)*, Austin, Texas USA, September 26-27, 2015.
 
-* Halling, B., and P. Alexander, "Verifying a Privacy CA Remote
-  Attestation Protocol," NASA Formal Methods Conference (NFM'13), LNCS
-  7871, Mountain View, CA, May 2013.
+* Austin, E. and P. Alexander, "Stateless Higher-Order Logic with Quantified Types," International Conference on Interactive Theorem Proving (ITP’13), LNCS 7998, Rennes, France, July 2013.
 
-* Frisby, N., A. Gill and P. Alexander, "A Pattern for Almost
-  Homomorphic Functions," The ACM SIGPLAN Workshop on Generic
-  Programming (WGP'12), Copenhagen, Denmark, September 9-10, 2012. 
+* Halling, B., and P. Alexander, "Verifying a Privacy CA Remote Attestation Protocol," NASA Formal Methods Conference (NFM'13), LNCS 7871, Mountain View, CA, May 2013.
+
+* Frisby, N., A. Gill and P. Alexander, "A Pattern for Almost Homomorphic Functions," The ACM SIGPLAN Workshop on Generic Programming (WGP'12), Copenhagen, Denmark, September 9-10, 2012. 
   
-* Haricombe, L. J., L. A. Emmett, and P. Alexander, "Open Access: An
-  Evolving Alternative," IEEE Computer, 45(8), August 2012,
-  pp. 70-72.
+* Haricombe, L. J., L. A. Emmett, and P. Alexander, "Open Access: An Evolving Alternative," IEEE Computer, 45(8), August 2012, pp. 70-72.
   
-* Peck, M. and P. Alexander, "Rosetta Composition Semantics," in
-  Progressions and Innovations in Model-Driven Software Engineering,
-  V. G. Díaz, J. M. C. Lovelle, B. C. P. Garcia-Bustelo, and
-  O. S. Martinez, Editors, IGI Global, in press.
+* Peck, M. and P. Alexander, "Rosetta Composition Semantics," in Progressions and Innovations in Model-Driven Software Engineering, V. G. Díaz, J. M. C. Lovelle, B. C. P. Garcia-Bustelo, and O. S. Martinez, Editors, IGI Global, in press.
 
-* Kimmell, G., W. Peck, and P. Alexander, "System Development with
-  Oread," 2011 Symposium on Implementation and Application of
-  Functional Langauges (IFL'11), Lawrence, KS, 2011.
+* Kimmell, G., W. Peck, and P. Alexander, "System Development with Oread," 2011 Symposium on Implementation and Application of Functional Langauges (IFL'11), Lawrence, KS, 2011.
   
-* Austin, E., and P. Alexander, "Haskell + HOL = HaskHOL," 2011
-  Symposium on Implementation and Application of Functional Langauges
-  (IFL'11), Lawrence, KS, 2011. 
+* Austin, E., and P. Alexander, "Haskell + HOL = HaskHOL," 2011 Symposium on Implementation and Application of Functional Langauges (IFL'11), Lawrence, KS, 2011. 
 
-* Frisby, N., M. Peck, M. Snyder, P. Alexander, "Model Composition in
-  Rosetta," IEEE Engineering of Computer-Based Systems Symposium and
-  Workshops, (ECBS'11), Las Vegas, NV, 2011. 
-  2010
+* Frisby, N., M. Peck, M. Snyder, P. Alexander, "Model Composition in Rosetta," IEEE Engineering of Computer-Based Systems Symposium and Workshops, (ECBS'11), Las Vegas, NV, 2011. 
 
-* Austin, E., and P. Alexander, "HaskHOL: A Haskell Hosted Domain
-  Specific Language Representation of HOL Light," Trends in Functional
-  Programming (TFP’10), Norman, OK, May 17-19, 2010. 
+* Austin, E., and P. Alexander, "HaskHOL: A Haskell Hosted Domain Specific Language Representation of HOL Light," Trends in Functional Programming (TFP’10), Norman, OK, May 17-19, 2010. 
 
-* Snyder, M., and P. Alexander, “Type-Indexed Monads,” Trends
-  in Functional Programming (TFP’10), Norman, OK, May 17-19, 2010.
+* Snyder, M., and P. Alexander, “Type-Indexed Monads,” Trends in Functional Programming (TFP’10), Norman, OK, May 17-19, 2010.
   
-* Kimmell, G., N. Frisby, P. Weaver, and P. Alexander,  "Constructing
-  Language Processors with Algebra Combinators," Science of Computer
-  Programming, **75**(7), July, 2010.
+* Kimmell, G., N. Frisby, P. Weaver, and P. Alexander,  "Constructing Language Processors with Algebra Combinators," Science of Computer Programming, **75**(7), July, 2010.
 
-* Alexander, P., "Rosetta: Standardization at the System Level," IEEE
-  Computer, **42**(1), January 2009 
+* Alexander, P., "Rosetta: Standardization at the System Level," IEEE Computer, **42**(1), January 2009 
 
-* Snyder, M., N. Frisby, G. Kimmell, P. Alexander, "Writing Composable
-  Software with InterpreterLib," Proceedings of Software Composition
-  (SC'09), Zurich, Switzerland, July 2-3, 2009. 
+* Snyder, M., N. Frisby, G. Kimmell, P. Alexander, "Writing Composable Software with InterpreterLib," Proceedings of Software Composition (SC'09), Zurich, Switzerland, July 2-3, 2009. 
 
-* Kimmell, G., E. Komp, G. Minden, and P. Alexander, "Synthesizing
-  Software Defined Radios from Rosetta Specifications," Proceedings of
-  the Forum on specification and Design Languages (FDL'08) ,
-  Stuttgart, Germany, September 23-25, 2008 
+* Kimmell, G., E. Komp, G. Minden, and P. Alexander, "Synthesizing Software Defined Radios from Rosetta Specifications," *Proceedings of the Forum on specification and Design Languages* (FDL'08),Stuttgart, Germany, September 23-25, 2008 
 
 * Kimmell, G., E. Komp, and P. Alexander, "Mutli-target Synthesis
   from a Monadic Specification Language," Proceedings of the Emerging
