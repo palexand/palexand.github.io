@@ -1,0 +1,18 @@
+- name: ACHILLES
+  github: ku-sldg
+  repo: achilles13
+  description: "The objective of ACHILLES is defining malice in networked, embedded devices such as printers and MFDs.  This is joint work with Adventium Labs."
+  sponsor: DARPA
+
+- name: Verified TPM
+  github: ku-sldg
+  repo: verified-tpm12
+  description: "The objective of the Verified TPM project is to formally specify and verify critical properties of the TPM 1.2."
+  sponsor: Battelle, DoD
+
+- name: Static Analysis of Niche Species Models
+  github: ku-sldg
+  repo: ibex13
+  description: "The objective of the Niche Modeling static analysis project is to use model checking techniques to statically analyze species distribution models."
+  sponsor: KU Initiative for Maximizing Student Diversity (IMSD)
+

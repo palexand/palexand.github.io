@@ -1,31 +1,17 @@
+- name: Programming Langauges in Haskell
+  github: ku-sldg
+  repo: plih
+  description: "The objective of PLIH is development of an online textbook in support of teaching programming languages in Haskell.  The repo is currently private and will be opened up in January 2017. If you are interesting in playing before that, drop me a line. The text will be free for anyone who wants to use it."
+  sponsor: None
+
 - name: ArmoredSoftware
   github: armoredsoftware
   repo: 
-  description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that peform appraisal, attestation and measurement."
-  sponsor: DoD
-
-- name: ACHILLES
-  github: ku-sldg
-  repo: achilles13
-  description: "The objective of ACHILLES is defining malice in networked, embedded devices such as printers and MFDs.  This is joint work with Adventium Labs."
-  sponsor: DARPA
-
-- name: Verified TPM
-  github: ku-sldg
-  repo: verified-tpm12
-  description: "The objective of the Verified TPM project is to formally specify and verify critical properties of the TPM 1.2."
-  sponsor: Battelle, DoD
-
-- name: Static Analysis of Niche Species Models
-  github: ku-sldg
-  repo: ibex13
-  description: "The objective of the Niche Modeling static analysis project is to use model checking techniques to statically analyze species distribution models."
-  sponsor: KU Initiative for Maximizing Student Diversity (IMSD)
+  description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that perform appraisal, attestation and measurement.  This is joint work with Southern Cross Engineering."
+  sponsor: DoD, Kansas Board of Regents
 
 - name: Virtual Vector Laboratory
   github: ku-sldg
   repo: vector12
-  description: "The objective of the Virtual Vector Laboratory is to develop techniques for autmoatically recognizing insect carriers of human diseases.  This is joint work with The KU Biodiversity Institute and Spencer Museum of Art."
+  description: "The objective of the Virtual Vector Laboratory is to develop techniques for automatically recognizing insect carriers of human diseases.  This is joint work with The KU Biodiversity Institute and Spencer Museum of Art."
   sponsor: KU Research Investment Council
-
-
