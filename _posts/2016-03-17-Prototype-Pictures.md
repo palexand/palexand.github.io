@@ -23,5 +23,5 @@ Finally set up properly with inputs, preamp and DSP in the rack. This
 is sort of what things will look like when the room is done.  Not
 quite though.
 
-![Full Rack](http://perry.alexander.name/images/stereo-proto2.jpg)
+![Full Rack](http://perry.alexander.name/images/stereo-proto3.jpg)
 
