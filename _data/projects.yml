@@ -16,8 +16,3 @@
   description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that perform appraisal, attestation and measurement.  This is joint work with Southern Cross Engineering."
   sponsor: DoD, Kansas Board of Regents
 
-- name: Virtual Vector Laboratory
-  github: ku-sldg
-  repo: vector12
-  description: "The objective of the Virtual Vector Laboratory is to develop techniques for automatically recognizing insect carriers of human diseases.  This is joint work with The KU Biodiversity Institute and Spencer Museum of Art."
-  sponsor: KU Research Investment Council
