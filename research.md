@@ -34,3 +34,4 @@ Sponsors: {{ project.sponsor }}
 # Information for Students
 
 * Notes on writing [PhD Dissertation Proposals](phd-proposal)
+* Notes on writing [papers](writing)
