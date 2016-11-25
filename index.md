@@ -54,10 +54,4 @@ design, trusted computing, design and specification language
 semantics, and component retrieval. For more information, visit my
 [research](research) or the [SLDG](http://ku-sldg.github.io) pages.
 
-# Vitae
-
-----
-
-My full [vitae](resources/alexander-vitae.pdf) should anyone be
-interested.
 

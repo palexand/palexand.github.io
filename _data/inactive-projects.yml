@@ -1,3 +1,9 @@
+- name: Virtual Vector Laboratory
+  github: ku-sldg
+  repo: vector12
+  description: "The objective of the Virtual Vector Laboratory is to develop techniques for automatically recognizing insect carriers of human diseases.  This is joint work with The KU Biodiversity Institute and Spencer Museum of Art."
+  sponsor: KU Research Investment Council
+
 - name: ACHILLES
   github: ku-sldg
   repo: achilles13
