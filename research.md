@@ -30,3 +30,7 @@ Sponsors: {{ project.sponsor }}
 Sponsors: {{ project.sponsor }}
 
 {% endfor %}
+
+# Information for Students
+
+* Notes on writing [PhD Dissertation Proposals](phd-proposal)
