@@ -139,14 +139,14 @@ the SPJ paper, it still says basically the same thing.
   * Problem
   * New idea
   * All the details
-* Do not teach, present to experts
-* A running example helps a ton
+* Do not teach, present to other experts
+* A running example always helps
 * Limit code listings and eliminate anything not explicitly
   referenced in the paper 
 * Analytic papers should clearly motivate and call out theorems,
   proofs and derivations 
 * Experimental papers should clearly call out the experiments
-    executed and results 
+  executed and results 
 * Case Study papers should clearly outline an meaningful example
 
 ### Examples:
