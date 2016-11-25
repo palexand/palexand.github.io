@@ -1,3 +1,9 @@
+- name: Toolkit for Evolving Ecosystem Envelopes (TEEE)
+  github: ku-sldg
+  repo: 
+  description: "The objective of the KU TEEE subcontract is developing techniques for automatically synthesizing protocols for measuring system properties.  Adventium Labs is the prime contractor on this effort."
+  sponsor: DARPA through Adventium Labs
+  
 - name: Programming Langauges in Haskell
   github: ku-sldg
   repo: plih
