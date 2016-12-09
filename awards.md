@@ -3,6 +3,7 @@ layout: frontpage
 title: Awards
 use_math: true
 ---
+# Awards and Professional Recognition
 
 ## General
   * AT&T Foundation Distinguished Professor, 2014--present.
