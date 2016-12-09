@@ -8,8 +8,7 @@ use_math: true
   * AT&T Foundation Distinguished Professor, 2014--present.
   * Elected Senior Member ACM, Fall 2006.
   * Elected Senior Member IEEE, Fall 1999.
-* Member of $HKN$, $\Phi K\Phi$, $\Upsilon\Pi E$, $\Sigma\Xi$
-  honorary societies
+* Member of Eta Kappa Nu, Phi Kappa Phi, Upsilon Pi Epsilon, Sigma Xi honorary societies
 
 ## Teaching, Advising and Service
   * Faculty Fellow, University of Kansas Honors Program, November 2014 - present.
@@ -28,7 +27,7 @@ use_math: true
   * Organizing Committee Member, XXI Century Engineering Consortium on Formal Methods, 1997-1998.
   * Mortar Board Exemplary Teaching Award, University of Cincinnati 1996-1997.
   * William E. Restemeyer Teaching Excellence Award, University of Cincinnati Department of Electrical and Computer Engineering, 1996-1997.
-  * $HKN$ Outstanding Professor of the Year, University of Cincinnati, 1992-1993, 1995-1997.
+  * Eta Kappa Nu Outstanding Professor of the Year, University of Cincinnati, 1992-1993, 1995-1997.
 
 ## Research  
   * University of Kansas Leading Light Award, 2014.
