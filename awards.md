@@ -1,7 +1,6 @@
 ---
 layout: frontpage
 title: Awards
-use_math: true
 ---
 # Awards and Professional Recognition
 
