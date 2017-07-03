@@ -1,9 +1,15 @@
+- name: Trusted SoC Boot
+  github: ku-sldg
+  repo:
+  description: "The objective of the KU Trusted SoC Project is developing verified techniques for performing measured boot and remote attestation on a Xilinx SoC platform."
+  sponsor: Honeywell National Security Campus
+
 - name: Toolkit for Evolving Ecosystem Envelopes (TEEE)
   github: ku-sldg
-  repo: 
+  repo:
   description: "The objective of the KU TEEE subcontract is developing techniques for automatically synthesizing protocols for measuring system properties.  Adventium Labs is the prime contractor on this effort."
   sponsor: DARPA through Adventium Labs
-  
+
 - name: Programming Langauges in Haskell
   github: ku-sldg
   repo: plih
@@ -12,7 +18,6 @@
 
 - name: ArmoredSoftware
   github: armoredsoftware
-  repo: 
+  repo:
   description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that perform appraisal, attestation and measurement.  This is joint work with Southern Cross Engineering."
   sponsor: DoD, Kansas Board of Regents
-
