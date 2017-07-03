@@ -26,7 +26,7 @@ Contact
 : 785-864-7741 (Voice)
 : 785-864-0387 (FAX)
 : perry_alexander (skype)
-: [GPG Public Key](resources/PerryAlexander.asc)
+: [GPG Public Key](http://perry.alexander.name/resources/PerryAlexander.asc)
 
 <dl>
 <dt>Current Courses and Office Hours</dt>
@@ -58,4 +58,4 @@ semantics, and component retrieval. For more information, visit my
 
 ----
 
-My full [vita](resources/vitae.pdf) should you be interested.
+My full [vita](http://perry.alexander.name/resources/vitae.pdf) should you be interested.
