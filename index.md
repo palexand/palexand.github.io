@@ -58,6 +58,4 @@ semantics, and component retrieval. For more information, visit my
 
 ----
 
-My full [vita](resources/vitae.pdf) should you be interested.
-
-
+My full [vita](/resources/vitae.pdf) should you be interested.
