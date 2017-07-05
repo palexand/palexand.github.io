@@ -58,4 +58,4 @@ semantics, and component retrieval. For more information, visit my
 
 ----
 
-My full [vita](http://perry.alexander.name/resources/vitae.pdf) should you be interested.
+My full [vita]({{ site.baseurl }}/resources/vitae.pdf) should you be interested.
