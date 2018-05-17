@@ -1,3 +1,21 @@
+- name: ArmoredSoftware
+  github: armoredsoftware
+  repo:
+  description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that perform appraisal, attestation and measurement.  This is joint work with Southern Cross Engineering."
+  sponsor: DoD, Kansas Board of Regents
+  
+- name: Trusted SoC Boot
+  github: ku-sldg
+  repo:
+  description: "The objective of the KU Trusted SoC Project is developing verified techniques for performing measured boot and remote attestation on a Xilinx SoC platform."
+  sponsor: Honeywell National Security Campus
+
+- name: Toolkit for Evolving Ecosystem Envelopes (TEEE)
+  github: ku-sldg
+  repo:
+  description: "The objective of the KU TEEE subcontract is developing techniques for automatically synthesizing protocols for measuring system properties.  Adventium Labs is the prime contractor on this effort."
+  sponsor: DARPA through Adventium Labs
+  
 - name: Virtual Vector Laboratory
   github: ku-sldg
   repo: vector12
@@ -8,7 +26,7 @@
   github: ku-sldg
   repo: achilles13
   description: "The objective of ACHILLES is defining malice in networked, embedded devices such as printers and MFDs.  This is joint work with Adventium Labs."
-  sponsor: DARPA
+  sponsor: DARPA through Adventium Labs
 
 - name: Verified TPM
   github: ku-sldg

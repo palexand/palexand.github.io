@@ -1,14 +1,27 @@
-- name: Trusted SoC Boot
+- name: Scalable Trust Semantics and Infrastructure
+  ghpages:
   github: ku-sldg
   repo:
-  description: "The objective of the KU Trusted SoC Project is developing verified techniques for performing measured boot and remote attestation on a Xilinx SoC platform."
-  sponsor: Honeywell National Security Campus
+  description: "The objective of the Scalable Trust Semantics and Infrastructure project is development of a semantics for measurement along with a collection of tools that implement that semantics."
+- name: StairCASE
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the DARPA StairCASE effort is to develop semantics and tools for integrating remote attestation with static analysis and develop formally verified and synthesized remote attestation infrastructure."
 
-- name: Toolkit for Evolving Ecosystem Envelopes (TEEE)
+- name: Honeywell Additive Manufacturing Trest
+  ghpages:
   github: ku-sldg
   repo:
-  description: "The objective of the KU TEEE subcontract is developing techniques for automatically synthesizing protocols for measuring system properties.  Adventium Labs is the prime contractor on this effort."
-  sponsor: DARPA through Adventium Labs
+  description: "The objective of the Additive Manufacturing Trust project is development of means for assuring trust in a 3D printer."
+  sponsor: Honeywell FM&T
+
+- name: Honeywell Test Equipment Trust
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the Test Equipment Trust project is development of means for assuring trust in test equipment and protect secrets on compromised or misconfigured systems."
+  sponsor: Honeywell FM&T
 
 - name: Programming Langauges in Haskell
   github: ku-sldg
@@ -16,8 +29,3 @@
   description: "The objective of PLIH is development of an online textbook in support of teaching programming languages in Haskell.  The repo is currently private and will be opened up in January 2017. If you are interesting in playing before that, drop me a line. The text will be free for anyone who wants to use it."
   sponsor: None
 
-- name: ArmoredSoftware
-  github: armoredsoftware
-  repo:
-  description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that perform appraisal, attestation and measurement.  This is joint work with Southern Cross Engineering."
-  sponsor: DoD, Kansas Board of Regents
