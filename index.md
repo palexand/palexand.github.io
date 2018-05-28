@@ -51,7 +51,5 @@ semantics, and component retrieval. For more information, visit my
 [research](research) or the [SLDG](http://ku-sldg.github.io) pages.
 
 # Vita
-
 ----
-
 My full [vita]({{ site.baseurl }}/resources/vitae.pdf) should you be interested.
