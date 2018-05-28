@@ -3,7 +3,7 @@ layout: frontpage
 title: Dr. Perry Alexander
 ---
 
-**Dr. Perry Alexander** is the AT&T Foundation Distinguished Professor of Electrical and Computer Science and Director of the Information and Telecommunication Technology Center at the University of Kansas.  His research and teaching interests include formal verification and synthesis, trusted systems, and programming language semantics.
+I am the AT&T Foundation Distinguished Professor of Electrical and Computer Science and Director of the Information and Telecommunication Technology Center at the University of Kansas.  My research and teaching interests include formal verification and synthesis, trusted systems, and programming language semantics.
 
 # Information
 -----
@@ -45,9 +45,7 @@ My teaching interests include formal methods, programming languages and semantic
 
 # Research
 ----
-My research interests include formal methods, system-level
-design, trusted computing, design and specification language
-semantics, and component retrieval. For more information, visit my
+My research interests include formal methods, system-level design, trusted computing, design and specification language semantics, and component retrieval. For more information, visit my
 [research](research) or the [SLDG](http://ku-sldg.github.io) pages.
 
 # Vita
