@@ -6,7 +6,6 @@ title: Dr. Perry Alexander
 **Dr. Perry Alexander** is the AT&T Foundation Distinguished Professor of Electrical and Computer Science and Director of the Information and Telecommunication Technology Center at the University of Kansas.  His research and teaching interests include formal verification and synthesis, trusted systems, and programming language semantics.
 
 # Information
-
 -----
 
 Information and Telecommunication Technology Center
@@ -26,6 +25,7 @@ Contact
 : 785-864-7741 (Voice)
 : 785-864-0387 (FAX)
 : perry_alexander (skype)
+: [ORCID](https://orcid.org/0000-0002-5387-9157)
 : [GPG Public Key]({{ site.baseurl }}/resources/PerryAlexander.asc)
 
 <dl>
@@ -40,15 +40,11 @@ Contact
 </dl>
 
 # Teaching
-
 ----
-
 My teaching interests include formal methods, programming languages and semantics, digital systems design and software engineering. For more information on courses I teach, visit my [teaching](teaching) pages.
 
 # Research
-
 ----
-
 My research interests include formal methods, system-level
 design, trusted computing, design and specification language
 semantics, and component retrieval. For more information, visit my
