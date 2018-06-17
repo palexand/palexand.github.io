@@ -31,6 +31,6 @@ title: Awards
 
 ## Research  
   * University of Kansas Leading Light Award, 2014.
-  * Miller Scholar, The University of Kansas School of Engineering, 2001-2002, 2002-2003, 2004-2005, 2011-2012.
+  * Miller Scholar, The University of Kansas School of Engineering, 2001-2002, 2002-2003, 2004-2005, 2011-2012, 2017-2018.
   * Bellows Scholar, The University of Kansas School of Engineering, 2008-2009.
   * William H. Middendorf Research Excellence Award, University of Cincinnati Department of Electrical and Computer Engineering, 1993-1994.
