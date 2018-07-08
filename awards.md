@@ -5,9 +5,9 @@ title: Awards
 # Awards and Professional Recognition
 
 ## General
-  * AT&T Foundation Distinguished Professor, 2014--present.
-  * Elected Senior Member ACM, Fall 2006.
-  * Elected Senior Member IEEE, Fall 1999.
+* AT&T Foundation Distinguished Professor, 2014--present.
+* Elected Senior Member ACM, Fall 2006.
+* Elected Senior Member IEEE, Fall 1999.
 * Member of Eta Kappa Nu, Phi Kappa Phi, Upsilon Pi Epsilon, Sigma Xi honorary societies
 
 ## Teaching, Advising and Service
