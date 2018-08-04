@@ -5,9 +5,9 @@ title: Awards
 # Awards and Professional Recognition
 
 ## General
-  * AT&T Foundation Distinguished Professor, 2014--present.
-  * Elected Senior Member ACM, Fall 2006.
-  * Elected Senior Member IEEE, Fall 1999.
+* AT&T Foundation Distinguished Professor, 2014--present.
+* Elected Senior Member ACM, Fall 2006.
+* Elected Senior Member IEEE, Fall 1999.
 * Member of Eta Kappa Nu, Phi Kappa Phi, Upsilon Pi Epsilon, Sigma Xi honorary societies
 
 ## Teaching, Advising and Service
@@ -31,6 +31,6 @@ title: Awards
 
 ## Research  
   * University of Kansas Leading Light Award, 2014.
-  * Miller Scholar, The University of Kansas School of Engineering, 2001-2002, 2002-2003, 2004-2005, 2011-2012.
+  * Miller Scholar, The University of Kansas School of Engineering, 2001-2002, 2002-2003, 2004-2005, 2011-2012, 2017-2018.
   * Bellows Scholar, The University of Kansas School of Engineering, 2008-2009.
   * William H. Middendorf Research Excellence Award, University of Cincinnati Department of Electrical and Computer Engineering, 1993-1994.
