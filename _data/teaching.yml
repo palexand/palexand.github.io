@@ -9,6 +9,8 @@
   github: palexand
   repo: eecs662
   description: This course is an undergraduate introduction to programming language concepts. It is taught by implementing a collection of interpreters that implement language features. Specific topics include structuring an interpreter, abstract syntax, early and late binding, laziness and strictness, function definition and application, static an dynamic scoping, and techniques for implementing these features.
+  when: 2:30-3:45 TR
+  where: 2112 Learned Hall
 
 - name: EECS 762 - Programming Language Foundations I
   github: palexand
@@ -34,3 +36,6 @@
   github: palexand
   repo: hnrs190
   description: The Freshman Honors Tutorial is a one hour class introducing freshman honors program students to research and KU.  My section looks at the early days of computing focusing on how computing came to be and why.  We look at work by the major early computing scholars and put their work in the context of World War II.  We also look a that the limitations of computing and what we know about what can and cannot be computed mechanically
+  when: 4:00-4:50 T
+  where: 108 Nunemaker Center
+  
