@@ -1,3 +1,10 @@
+- name: National Security Agency Science of Security Lablet
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "KU ITTC is one of 6 Science of Security Lablets established by the National Security Agency.  For more information, visit our lablet page on the [Science of Security Virtual Organization](https://cps-vo.org/sos/lablet/ku).
+  sponsor: National Security Agency
+
 - name: Scalable Trust Semantics and Infrastructure
   ghpages:
   github: ku-sldg
