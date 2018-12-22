@@ -10,6 +10,11 @@
   repo: eecs662
   description: This course is an undergraduate introduction to programming language concepts. It is taught by implementing a collection of interpreters that implement language features. Specific topics include structuring an interpreter, abstract syntax, early and late binding, laziness and strictness, function definition and application, static an dynamic scoping, and techniques for implementing these features.
 
+- name: EECS 742 - Static Analysis
+  github: palexand
+  repo: eecs742
+  description: Static analysis includes tecniques used to analyze softare prior to running it.  Such techniques commonly include data flow analysis, control flow analysis, abstract interpretation, and type and effect systems.  This course introduces basic static analysis techniques and their application to system verification and transformation.  We will discuss the theoretical basis for various techniques and develop prototype analysis tool implementations.
+
 - name: EECS 762 - Programming Language Foundations I
   github: palexand
   repo: eecs762
