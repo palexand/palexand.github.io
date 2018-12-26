@@ -3,14 +3,14 @@
   github: ku-sldg
   repo:
   description: "KU ITTC is one of 6 Science of Security Lablets established by the National Security Agency.  For more information, visit our lablet page on the [Science of Security Virtual Organization](https://cps-vo.org/sos/lablet/ku)."
-  sponsor: National Security Agency
+  sponsor: NSA Science of Security initiative contract #H98230-18-D-0009
 
 - name: Scalable Trust Semantics and Infrastructure
   ghpages:
   github: ku-sldg
   repo:
   description: "The objective of the Scalable Trust Semantics and Infrastructure project is development of a semantics for measurement along with a collection of tools that implement that semantics."
-  sponsor: National Security Agency Science of Security
+  sponsor: NSA Science of Security initiative contract #H98230-18-D-0009
   
 - name: StairCASE
   ghpages:
