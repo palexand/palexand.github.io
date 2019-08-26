@@ -12,6 +12,13 @@
   when: 2:30-3:45 TR
   where: 1136 Learned Hall
 
+- name: EECS 742 - Static Analysis
+  github: palexand
+  repo: eecs742
+  description: Static analysis includes tecniques used to analyze softare prior to running it.  Such techniques commonly include data flow analysis, control flow analysis, abstract interpretation, and type and effect systems.  This course introduces basic static analysis techniques and their application to system verification and transformation.  We will discuss the theoretical basis for various techniques and develop prototype analysis tool implementations.
+  when: 1:00-2:15 TR
+  where: 3150 Learned Hall
+
 - name: EECS 762 - Programming Language Foundations I
   github: palexand
   repo: eecs762
