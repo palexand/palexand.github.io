@@ -12,6 +12,41 @@ Simple, right?  Not so. I fought with the meaning of this from the first time I 
 
 Types are properties of language constructs. They define promises made about calculated things and place demands on things calculated with.  Looking at the term `x+1` in the context of a type system we know that if `x` is a natural number, `+` will produce a natural number. If `x` is not a natural number, the result is not defined and we probably shouldn't allow the calculation.
 
+Functions have types that are constructed from other types with the type constructor `D->R`. This has always made great sense to me.  Take any function, `f:D->R`, put in `d:D` and you get back some `r` of type `R`.  A constraint is placed on `d` with an accompanying promise about `r`.  Put a natural into `inc` and you are assured you'll get back a natural.  I get it, but what the heck does this have to do with proofs?
+
+Let's start by thinking about the simplest proof I can think of:
+
+{% highlight coq %}
+True
+{% endhighlight %}
+
+`True` is true by axiom. It's not provable from other logical constructs. So how do we say that `True`. Theorems are to types. So, `True` is a type:
+
+{% highlight coq %}
+Inductive True : Type.
+{% endhighlight %}
+
+Proofs are to values. This is a bit trickier, but think it through. A proof or `True` is a value of type `True`.  In the case of `True` that proof is a given:
+
+{% highlight coq %}
+Inductive True : Type :=
+   | I : True.
+{% endhighlight %}
+
+Now the value `I` is a proof of `True`. 
+
+You're not sold and neither was I.  But let's try another proof and see what happens.
+
+Another simple proof is:
+
+{% highlight coq %}
+True => True
+{% endhighlight %}
+
+How do we define this as a type?  Reading the logical statement gives us a clue. "Given True we can prove True" or better yet, "given a proof of True we can find a proof of True."  That's literally what implication says - assume the antecedent is true and prove the consequence. 
+
+Types are properties of language constructs. They define promises made about calculated things and place demands on things calculated with.  Looking at the term `x+1` in the context of a type system we know that if `x` is a natural number, `+` will produce a natural number. If `x` is not a natural number, the result is not defined and we probably shouldn't allow the calculation.
+
 Functions have types that are constructed from other types with the type constructor `D->R`. This has always made great sense to me.  Take any function, `f:D->R`, put in `d:D` and you get back some `r` of type `R`.  A constraint is placed on `d` with an accompanying promise about `r`.
 
 Let's look at the type of an increment function over naturals, `inc:nat->nat`.  If you give `inc` a `nat` you will get a `nat`.  We can define this function in almost programming language in roughly the same way:
@@ -55,6 +90,7 @@ You're not sold and neither was I.  Let's try another proof and see what happens
 
 Second simplest proof I can think of is:
 
+<<<<<<< Updated upstream
 {% highlight coq %}
 True -> True
 {% endhighlight %}
@@ -144,6 +180,9 @@ What happens if we interpret the type constructor -> as an implication?  p:T=>T
 ---
 
 Let's now look at the type of a decrement function over naturals, `dec:nat->nat`.  Same constraint and same promise - provide a `nat` and get a `nat`.  We can define `dec` just like `inc`:
+=======
+Let's now look at the type of a decrement function over naturals, `dec:Nat->Nat`.  Same constraint and same promise - provide a `Nat` and get a `Nat`.  We can define `dec` just like `inc`:
+>>>>>>> Stashed changes
 
 {% highlight haskell %}
 dec n = n-1
@@ -160,7 +199,11 @@ whole = {n:nat | n>0}
 Problem solved.  Let's now define `dec` as follows:
 
 {% highlight haskell %}
+<<<<<<< Updated upstream
 dec : {n:nat | n>0} -> nat
+=======
+dec : {n:Nat | n>0} -> Nat
+>>>>>>> Stashed changes
 dec n = n-1
 {% endhighlight %}
 
@@ -182,7 +225,11 @@ x : {n:nat | n>5 /\ n<3}
 
 It should be easy to see that our new type has no witnesses.  There is no `n` that is both greater than 5 and less than 3. The type of `x` is uninhabited.  That turns out to be a problem because we've said that `x` *must* take values that are witnesses to that type.  Thinking of types as sets, we've now said that `x` is an element of the empty set.  That is an inconsistency that ruins our type system.  If we were working in PVS or Coq, those systems would require us to prove a witness exists for every type.  However, that is not generally a decidable problem and cannot be done automatically.  You'll not see this kind of type in a traditional language, but experimental languages like Agda and Idris support this idea.
 
+<<<<<<< Updated upstream
 This is our first hint to understanding Curry-Howard.  We've just seen in highly expressive type systems, some types have no witnesses.  There is no element of `{n:nat | n>5 /\ n<3}` and if we declare there to be one, the result is inconsistency in our type system.  If theorems are types and proofs are programs, what does this mean?  Types can have no programs.  Can theorems have no proofs?  You bet!
+=======
+This is our first hint to understanding Curry-Howard.  We've just seen in highly expressive type systems, some types have no witnesses.  There is no element of `{n:Nat | n>5 /\ n<3}` and if we declare there to be one, the result is inconsistency in our type system.  If theorems are types and proofs are programs, what does this mean?  Types can have no programs.  Can theorems have no proofs?  You bet!
+>>>>>>> Stashed changes
 
 Let's define a new type that we will call `True`.  `True` will have exactly one witness that we will call `I`. Thus we know that `I:True` holds.  `I` is also going to be treated as a proof.  `I:True` says that `I` is of type `True`.  It also says that `True` has a proof and is always true.  This is important - `I` is of type `True` and is a *proof* of `True`.  *Types are to programs as theorems are to proofs*.
 
