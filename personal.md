@@ -6,23 +6,25 @@ title: Personal
 # Artists, Music and Gear
 
 I keep a [blog](blog.html) where I describe some of the artists and
-music I listen 
-to and the stereo gear that I use for playback.I find it exceedingly
+music I listen to and the stereo gear that I use for playback. I find
+it exceedingly 
 difficult to find new music that I enjoy. My interests are pretty
 eclectic ranging from jazz through indie pop and folk to ska with
-about everything in between, except what you hear on the
-radio. Although the web has changed things for the better, it's still
-difficult to find new artists that I like. I also tend to be a bit of
+about everything in between. Although the web has changed things for
+the better, it's still 
+difficult to find new artists that I like.
+
+I also tend to be a bit of
 a gear-head - I like listening and learning about home audio gear. I
 have also put together some advice for first time high-end stereo
-buyers. To make a long story short, I'm a big fan of Bryston and
-Classe amplification, Benchmark DACs, HeadRoom headphone amps and
-Entymotic and Senheiser headphones. I also have Snell type C/V
+buyers. To make a long story short, I'm a big fan of ATI, Bryston and
+Classe amplification, Benchmark DACs, 
+Grado, Entymotic and Sennheiser headphones. I also have Snell type C/V
 speakers and CAL digital sources that I love, but both of those
-companies have since been purchased and I'm not sure if and how they
-have changed. Visit the blog and select the music keyword for artists
+companies have since been purchased and killed off. Visit the blog and
+select the music keyword for artists 
 and music or the gear keyword for info on playback systems. Taste is
-personal -- your mileage my vary.
+personal -- your mileage will vary.
 
 # Bio
 
@@ -52,7 +54,7 @@ and automated software engineering. I founded and directed the
 Knowledge-Based Software Engineering Laboratory and worked on several
 DARPA and AFRL funded research projects. I also began integrating
 formal methods into undergraduate computer engineering courses,
-receiving some national attention for that effort.  
+receiving some national attention for that effort.
 
 After 8 great years at Cincinnati, I moved back to Kansas as an
 Associate Professor of Electrical Engineering and Computer Science,
@@ -60,18 +62,30 @@ and a principal investigator with the Information and
 Telecommunications Technology Center. In 2005 I was promoted to
 Professor. My interests in formal methods continued and with David
 Barton and Peter Ashenden, I developed the Rosetta systems-level
-specification language.  Work on Rosetta continues with an IEEE
-standard in the works. I've published on book with Morgan Kaufman with
-plans for a second. I also find myself looking more at language
+specification language.  We published one book with Morgan Kaufman and
+the beginnings of an IEEE standard and while the ideas behind Rosetta
+live on in systems engineering languages like AADL and SySML, the
+Rosetta effort ended in the mid 2000s. I continue to find myself
+looking at language 
 interpreters and ways of mixing computational models during analysis
 activities, as well as traditional analysis activities.
 
-Most recently I have begun work verifying and designing trusted
-systems. I have worked on verification of a trusted OS built using the
-Xen infrastructure and have worked on the first formal model of the
-TPM 1.2.  Currently we are working on moving trusted computing into
-the cloud and on discovering malice in embedded computing devices such
-as printers, MFDs and routers.
+More recently we started work designing and verifying trusted
+systems using semantic remote attestation. I initially worked on
+verification of a trusted system virtual platform built using the 
+Xen infrastructure and then on moving trusted computing into
+the cloud. Today I am PI on the University of Kansas NSA Science of
+Security Lablet and continue developing verified trusted computing
+semantics and infrastructure.  Other Science of Security projects at
+KU examine IoT privacy, resilience ontology and epistemology, side
+channel attack resistance, and secure native binary execution.  I am
+also PI on the DARPA CASE effort with Collins Aerospace developing
+verified trusted computing infrastructure for a UAV ground station.
+
+My my most recent adventure adds blockchain to the mix through a gift
+from Ripple. I am working with biodiversity researchers to tokenize
+biological data, working with artists and writers to explore social
+impacts, and developing tools to protect blockchain infrastructure.
 
 # Quotes
 
@@ -86,7 +100,7 @@ as printers, MFDs and routers.
 David Hilbert, International Congress of Mathematics, Paris, 1900
 
 > ...shootin fools and starry gazers, wizard hip and button down,  
-> I walk the occam razor way through priests and circus clowns,  
+> I walk the Occam razor way through priests and circus clowns,  
 > am I a missioner of faith or grace or vision or another grinning prisoner of Happytown?
 
 Dave Carter, *Happytown*
