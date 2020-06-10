@@ -11,21 +11,21 @@
   repo:
   description: "The objective of the Scalable Trust Semantics and Infrastructure project is development of a semantics for measurement along with a collection of tools that implement that semantics."
   sponsor: NSA Science of Security initiative contract #H98230-18-D-0009
-  
+
 - name: University Blockchain Research Initiative (UBRI)
 	ghpages:
 	github: ku-sldg
 	repo:
 	description: "KU ITTC is one of 25 University research centers to receive a gift from Ripple to explore aspects of blockchain technology. As a part of our UBRI gift we are looking at recording and distributing biodiversity data, resiliency, IoT and blockchain, trusted blockchain infrastructure, and blockchain as art."
 	sponsor: Ripple UBRI
-  
+
 - name: StairCASE
   ghpages:
   github: ku-sldg
   repo:
   description: "The objective of the DARPA StairCASE effort is to develop semantics and tools for integrating remote attestation with static analysis and develop formally verified and synthesized remote attestation infrastructure."
   sponsor: DARPA CASE, Collins Aerospace industry prime
-  
+
 - name: VOLTA
 	ghpages:
 	github: ku-sldg
