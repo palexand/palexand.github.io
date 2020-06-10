@@ -13,11 +13,11 @@
   sponsor: NSA Science of Security initiative contract #H98230-18-D-0009
 
 - name: University Blockchain Research Initiative (UBRI)
-	ghpages:
-	github: ku-sldg
-	repo:
-	description: "KU ITTC is one of 25 University research centers to receive a gift from Ripple to explore aspects of blockchain technology. As a part of our UBRI gift we are looking at recording and distributing biodiversity data, resiliency, IoT and blockchain, trusted blockchain infrastructure, and blockchain as art."
-	sponsor: Ripple UBRI
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "KU ITTC is one of 25 University research centers to receive a gift from Ripple to explore aspects of blockchain technology. As a part of our UBRI gift we are looking at recording and distributing biodiversity data, resiliency, IoT and blockchain, trusted blockchain infrastructure, and blockchain as art."
+  sponsor: Ripple UBRI
 
 - name: StairCASE
   ghpages:
@@ -27,11 +27,11 @@
   sponsor: DARPA CASE, Collins Aerospace industry prime
 
 - name: VOLTA
-	ghpages:
-	github: ku-sldg
-	repo:
-	description: "The objective of the VOLTA effort is to learn timed automata from a given system and discover vulnerabilities by examining that automata.  Our role in VOLTA is discovering protocols and alphabets for a learner to exercise in learning and the automata."
-	sponsor: AFRL, Adventium Labs industry prime
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the VOLTA effort is to learn timed automata from a given system and discover vulnerabilities by examining that automata.  Our role in VOLTA is discovering protocols and alphabets for a learner to exercise in learning and the automata."
+  sponsor: AFRL, Adventium Labs industry prime
 
 - name: Honeywell Additive Manufacturing Trest
   ghpages:
