@@ -24,8 +24,6 @@
   github: palexand
   repo: eecs755
   description: Software Requirements Modeling is an advanced introduction to modern techniques for specification, verification and implementation of software systems. Topics covered are equally useful for hardware and software verification. We will learn to write formal specifications, refine specifications and verify that implementations meet their requirements. Specific topics include axiomatic specification, invariants, algebraic types and induction, constructive specification, assume-guarantees style specification, safety and liveness, and natural deduction. Currently we use the Coq verification tool, but techniques learned apply equally well to other verification systems.
-  when: 2:30-3:45 TR
-  where: 2112 Learned Hall
 
 - name: EECS 843 - Programming Language Foundations II
   github: palexand
