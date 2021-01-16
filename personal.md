@@ -89,6 +89,17 @@ impacts, and developing tools to protect blockchain infrastructure.
 
 # Quotes
 
+> It is of course important that some efforts be made to verify the
+> correctness of assertions that are made about  a  routine.  There  are
+> essentially  two  types  of methods available, the theoretical and the
+> experimental.  In  the  extreme  form  of  the  theoretical  method a
+> watertight mathematical proof is provided for the assertion.  In  the
+> extreme  form  of  the  experimental method, the routine is tried out
+> on the machine with a variety  of  initial  conditions  and  is
+> pronounced fit if the assertions hold in each case.
+
+Alan Turing (quoted by D. MacKenzie in _Risk  and Reason_)
+
 > ... It is an error to believe that rigor in the proof is the enemy
 >  of simplicity. On the contrary, we find it confirmed by numerous
 >  examples that the rigorous method is at the same time the simpler
@@ -97,7 +108,7 @@ impacts, and developing tools to protect blockchain infrastructure.
 >  the way to methods which are more capable of development than the
 >  old methods of less rigor.
 
-David Hilbert, International Congress of Mathematics, Paris, 1900
+David Hilbert, _International Congress of Mathematics+, Paris, 1900
 
 > ...shootin fools and starry gazers, wizard hip and button down,  
 > I walk the Occam razor way through priests and circus clowns,  
