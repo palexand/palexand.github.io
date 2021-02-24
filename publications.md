@@ -5,6 +5,10 @@ title: Publications
 
 # Selected Publications
 
+* Petz, A. and P. Alexader, "An Infrastructure for Faithful Execution
+  of Remote Attestation Protocols," *NASA Formal Methods Symposium
+  (NFM'21)*, May 24-28, Norfolk, VA.
+
 * Petz, A. and P. Alexander, “A Copland Attestation Manager,” *Hot
   Topics in Science of Security (HoTSoS’19)*, Nashville, TN, April
   8-11 2019. 
