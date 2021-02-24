@@ -11,7 +11,7 @@ title: Teaching
 
 -----
 
-[{{ course.name }}](http://{{ course.github }}.github.io/{{ course.repo }}) - {{ course.description }}
+[{{ course.name }}](https://{{ course.github }}.github.io/{{ course.repo }}) - {{ course.description }}
 
 {% endfor %}
 
