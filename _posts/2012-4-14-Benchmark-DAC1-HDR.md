@@ -3,8 +3,8 @@ layout: blog
 categories: blog gear
 title: Benchmark DAC1 HDR
 ---
-About 6 months age
-[Benchmark](http://www.benchmarkmedia.com/dac/dac1-hdr) made me a
+About 6 months ago
+[Benchmark](https://www.benchmarkmedia.com/dac/dac1-hdr) made me a
 sweet deal to upgrade my original DAC1 to a DAC1 HDR.  I'm a huge fan
 of my DAC1, but passed on the original offer.  I had just made a
 serious investment in amp, preamp, and home theater processor and just

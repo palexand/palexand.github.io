@@ -9,4 +9,4 @@ The picture below shows the room with the speakers in place.  Each of the LCR sp
 
 I decided that I would go with a stereo configuration before going to a full 5.1.  My intent was to only wire up the left and right channel, skipping the center and sub as well as the surrounds.  Big mistake there that I'll get back to in a later post.  At this point, the speakers are set up and in the room, but not much more.  Slowly and surely things are coming together.
 
-![Speakers](http://perry.alexander.name/images/first.jpg)
+![Speakers](https://perry.alexander.name/images/first.jpg)

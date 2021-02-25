@@ -17,7 +17,7 @@ I might need it.  The Sonos is interesting because I have the network
 in place.
 
 I'm going to check out a solution by
-[Audioengine](http://audioengineusa.com) that is billed as a wireless
+[Audioengine](https://audioengineusa.com) that is billed as a wireless
 DAC.  The digital stuff moves from a transmitter to the DAC that is
 connected to your sound reproduction system.  This has great
 potential.  Stay tuned for more information on this.
