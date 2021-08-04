@@ -46,7 +46,7 @@ My teaching interests include formal methods, programming languages and semantic
 # Research
 ----
 My research interests include formal methods, system-level design, trusted computing, design and specification language semantics, and component retrieval. For more information, visit my
-[research](research) or the [SLDG](https://ku-sldg.github.io) pages.
+[research](research) or the [SLDG](http://ku-sldg.github.io) pages.
 
 # Vita
 ----
