@@ -5,7 +5,7 @@ title: Tom Dowd and The Language of Music
 ---
 
 Years ago I saw a documentary when doing laps around the television
-about [Tom Dowd](http://en.wikipedia.org/wiki/Tom_Dowd).  Dowd was a
+about [Tom Dowd](https://en.wikipedia.org/wiki/Tom_Dowd).  Dowd was a
 recording engineer and producer for 
 Atlantic Records and was among the first to use stereo and multitrack
 recording techniques.  He also worked on the Manhattan Project and

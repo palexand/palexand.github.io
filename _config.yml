@@ -1,4 +1,4 @@
-baseurl: http://perry.alexander.name
+baseurl: https://perry.alexander.name
 account: palexand
 github: https://github.com/palexand
 title: Dr. Perry Alexander
@@ -7,4 +7,4 @@ ohrs: 1:30-2:30 TR
 markdown: kramdown
 name: WPA
 description: Perry Alexander's Website
-url: http://palexand.github.io
+url: https://palexand.github.io

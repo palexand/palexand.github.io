@@ -5,7 +5,7 @@ title: Hearing Voices
 ---
 I just downloaded a remastered 192/24 version of *Waltz for Debbie* by the
 great Bill Evans Trio featuring Bill Evans, Scott LaFarro, and Paul
-Motian from my friends at [HDTracks](http://www.hdtracks.com).  This
+Motian from my friends at [HDTracks](https://www.hdtracks.com).  This
 is of course the first great live jazz trio album and maybe the best
 ever. I've used it in stereo auditions since I bought it because of
 the phenomenal sound stage and the subtle artifacts - voices and sounds

@@ -17,7 +17,7 @@ All good stuff.  I'm quite happy with everything and the new Josh
 Rouse in particular.  Also discovered a new music download site on
 recommendation of a good music friend:
 
-* [HDTracks](http://www.hdtracks.com)
+* [HDTracks](https://www.hdtracks.com)
 
 Happy listening.
 

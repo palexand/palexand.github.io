@@ -23,7 +23,7 @@ get our papers published, but I do have stories to share.
 ## Axiomatic Semantics of Papers
 
 ### Preconditions on papers:
-* Read Simon Peyton Jones' slides on paper writing [here](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
+* Read Simon Peyton Jones' slides on paper writing [here](https://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 * Read papers in the discipline you are interested in, identify those
   you like and respect, write like they do, repeat 
 * Read Simon Peyton Jones' slides on paper writing again

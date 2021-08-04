@@ -11,7 +11,7 @@ title: Research
 
 ---
 
-[{{ project.name }}](http://{{ project.github }}.github.io/{{ project.repo }}) - {{ project.description }}
+[{{ project.name }}](https://{{ project.github }}.github.io/{{ project.repo }}) - {{ project.description }}
 
 Sponsors: {{ project.sponsor }}
 
@@ -25,7 +25,7 @@ Sponsors: {{ project.sponsor }}
 
 ---
 
-[{{ project.name }}](http://{{ project.github }}.github.io/{{ project.repo }}) - {{ project.description }}
+[{{ project.name }}](https://{{ project.github }}.github.io/{{ project.repo }}) - {{ project.description }}
 
 Sponsors: {{ project.sponsor }}
 
