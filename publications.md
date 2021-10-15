@@ -5,9 +5,18 @@ title: Publications
 
 # Selected Publications
 
+* Helble, S., I. Kretz, P. Loscocco, J. Ramsdell, P. Rowe, and
+  P. Alexander “Flexible Mechanisms for Remote Attestation,” _ACM
+  Transactions On Security and Privacy_, **24**(4), September 2021. 
+
+* Petz, A., G. Jurgensen, and P. Alexander, "Design and Formal
+  Verification of a Copland-based Attestation Protocol," _ACM-IEEE
+  International Conference on Formal Methods and Models for System
+  Design (MEMOCODE'21)_, Virtual, Nov 20-22, 2021.
+
 * Petz, A. and P. Alexader, "An Infrastructure for Faithful Execution
   of Remote Attestation Protocols," *NASA Formal Methods Symposium
-  (NFM'21)*, May 24-28, Norfolk, VA.
+  (NFM'21)*, May 24-28, 2021, Norfolk, VA.
 
 * Petz, A. and P. Alexander, “A Copland Attestation Manager,” *Hot
   Topics in Science of Security (HoTSoS’19)*, Nashville, TN, April
