@@ -13,6 +13,7 @@ title: Awards
 
 ## Research  
 
+* [Faculty Fellow, Integrated Arts Research Initiative, Spencer Museum of Art, The University of Kansas, 2022.](https://www.spencerart.ku.edu/iari/fellows/faculty)
 * [Irvin E. Youngberg Award in Applied Sciences](https://news.ku.edu/four-named-recipients-higuchi-ku-endowment-research-achievement-awards-0?utm_source=KU+Today+Newsletter+List&utm_campaign=16417d0783-EMAIL_CAMPAIGN_2019_12_05_04_03&utm_medium=email&utm_term=0_ec834ed00f-16417d0783-278650153)
 * University of Kansas Leading Light Award, 2014.
 * Miller Scholar, The University of Kansas School of Engineering,
