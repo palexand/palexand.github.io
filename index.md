@@ -3,12 +3,13 @@ layout: frontpage
 title: Dr. Perry Alexander
 ---
 
-I am the AT&T Foundation Distinguished Professor of Electrical and Computer Science and Director of the Information and Telecommunication Technology Center at the University of Kansas.  My research and teaching interests include formal verification and synthesis, trusted systems, and programming language semantics.
+I am the AT&T Foundation Distinguished Professor of Electrical and
+Computer Science and Director of the Institute for Information Sciences at the University of Kansas.  My research and teaching interests include formal verification and synthesis, trusted systems, and programming language semantics.
 
 # Information
 -----
 
-Information and Telecommunication Technology Center
+Institute for Information Sciences
 : The University of Kansas
 : Nichols Hall
 : 2335 Irving Hill Rd
