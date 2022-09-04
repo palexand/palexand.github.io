@@ -1,6 +1,6 @@
 ---
 layout: blog
-categories: blog, gear
+categories: blog gear
 title: Pro-Ject Pre Box S2
 ---
 Latest audio gear purchase is a Pro-Ject Pre Box S2.  As the name implies it is a preamplifier from the folks at Pro-Ject with whom I have no prior experience.  I needed a new DAC for my office desk at home and priced at $349 with tons of inputs and MQA support it seemed worth the risk to try out.
