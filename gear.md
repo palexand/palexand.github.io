@@ -7,12 +7,12 @@ title: {{ site.title }}
 
 My current home setup for music:
 
-* Bryston BDP-2 media player
-* Rega RP-1 turntable with stock stylus
-* Lucid Labs Catalyst HH phono stage
-* Benchmark DAC2 D/A
-* Audio Research LS26 preamp
-* Symmetra SymNet 8x8 DSP
+* Roon Nucleus Media Player
+* Pro-Ject Carbon 3 Turntable
+* Sumiko Moonstone Cartridge 
+* Parasound Zphono XRM MM/MC Phono Preamp
+* Benchmark DAC2 D/A and Preamp
+* Symmetra SymNet 8x8 DSP Crossover
 * ATI AT3000 Amplifiers
 * Custom Russ Berger Design Group studio monitors
 
@@ -21,7 +21,7 @@ My current work system includes:
 * Benchmark DAC1 D/A
 * Bryston 3NRB amp
 * PSB Alpha speakers
-* Grado RS2e headphones
+* Focal Elegea headphones
 
 {% for post in site.categories.gear %}
 
