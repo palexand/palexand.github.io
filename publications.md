@@ -5,6 +5,12 @@ title: Publications
 
 # Selected Publications
 
+* Petz, A. and P. ALexander, "Formally veriﬁed bundling and appraisal
+  of evidence for layered attestations," _Innovations in Systems and
+  Software Engineering_,
+  [https://doi.org/10.1007/s11334-022-00475-1](https://doi.org/10.1007/s11334-022-00475-1),
+  September 2022.
+
 * Helble, S., I. Kretz, P. Loscocco, J. Ramsdell, P. Rowe, and
   P. Alexander “Flexible Mechanisms for Remote Attestation,” _ACM
   Transactions On Security and Privacy_, **24**(4), September 2021. 
