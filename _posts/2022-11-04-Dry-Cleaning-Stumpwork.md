@@ -3,7 +3,7 @@ layout: blog
 categories: blog music
 title: Dry Cleaning - Stumpwork
 ---
-<div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 50%;"><iframe src="https://embed.tidal.com/albums/251175805?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 50%; height: 1px; min-height: 50%; margin: 0 auto;"></iframe></div>
+<div style="position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%;"><iframe src="https://embed.tidal.com/albums/251175805?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
 
 Latest by Dry Cleaning is _Stumpwork_.  It is another Dry Cleaning album in every sense - really cool spoken word and sparse, plodding guitars and drums.  Plodding in a good sense if there is such a thing.  Unhurried and unselfconscious with drums and jangly guitar that drag things along like a punk band that doesn't care.  Ho hum.  Ho hum indeed!  Until _Don't Press Me_ hits and the tempo pops up, there's just a hint of lilt in the vocals, and the guitarist turns up the surf knob.
 
