@@ -1,6 +1,6 @@
 ---
 layout: blog
-categories: music
+categories: blog music
 title: Flaming Swords - Fievel Is Glauque
 ---
 
