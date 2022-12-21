@@ -1,0 +1,14 @@
+---
+layout: blog
+categories: blog music
+title: Watertown - Frank Sinatra
+---
+<div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 50%;"><iframe src="https://embed.tidal.com/albums/231053738?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
+
+One note into the verse of [_Watertown_](https://tidal.com/browse/album/231053738) and you know without a doubt who you are listening to.  Like Miles, Jaco, Monk, the sound of [Sinatra](https://tidal.com/browse/artist/362) is singularly unique and _Watertown_ is a unique entry in Sinatra's portfolio.  _Watertown_ fits in a time when music, particularly jazz, was transitioning.  Rock and pop have become a thing and are stealing listeners from traditional popular music, vocal jazz in particular.  Miles enters his electric phase and the youngsters - [Chick Corea](https://tidal.com/browse/artist/10957), [Herbie Hancock](https://tidal.com/browse/artist/209), [Joe Zawinul](https://tidal.com/browse/artist/5931), [John McLaughlin](https://tidal.com/browse/artist/8313) - follow his lead.  New performers are writing their own music rather than going back to pop standards or [Brill Building](https://www.history-of-rock.com/brill_building.htm) penned charts.  In his own inimitable way, Sinatra brings this new popular music into his own space.
+
+What you get is classic Sinatra, but phase II.  The arrangements from [Bob Gaudio](https://tidal.com/browse/artist/6352615) and [Charles Pignone](https://tidal.com/browse/artist/11654942) are stunning.  Gone for the moment is Sinatra's tendency towards standards, replaced by songs written specifically for him.  Gone is standing in the middle of a studio with his orchestra all around replaced by overdubbing vocals.  Constant is the classic Sinatra sound and timing.  Lush strings and horns building giant chords.  Plucked violins and soaring french horns.  It is in all ways Sinatra and well worth your time.
+
+Several tracks are worth noting.  _I Would Be In Love Anyway_ is the classic Sinatra power ballad and my favorite tune from the album.  The arrangement is fantastic and features Sinatra crescendoing on a wave of strings and horns in the Sinatra way.  _Elizabeth_ follows, modernizing the pop ballad for the 70's.  Complete with flute solo and lots of strings.  The title track opens is exemplary of the new Sinatra introducing some 70's pop idioms and a train.  Not so sure about the train...
+
+This newly remastered edition of _Watertown_ is simply gorgeous and adds a collection of bonus material that neither adds or detracts from the album.  It would stand on its own with just the original lineup.  But, more Sinatra cannot be a bad thing.  _Watertown_ is worth your time and I'll be searching for vinyl.
