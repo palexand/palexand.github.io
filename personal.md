@@ -108,7 +108,7 @@ Alan Turing (quoted by D. MacKenzie in _Risk  and Reason_)
 >  the way to methods which are more capable of development than the
 >  old methods of less rigor.
 
-David Hilbert, _International Congress of Mathematics+, Paris, 1900
+David Hilbert, _International Congress of Mathematics_, Paris, 1900
 
 > ...shootin fools and starry gazers, wizard hip and button down,  
 > I walk the Occam razor way through priests and circus clowns,  
