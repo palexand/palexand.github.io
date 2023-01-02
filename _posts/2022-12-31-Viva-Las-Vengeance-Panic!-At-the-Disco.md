@@ -1,6 +1,6 @@
 ---
 layout: blog
-categories: blog
+categories: blog music
 title: Viva Las Vengeance - Panic! At the Disco
 ---
 <div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 50%;"><iframe src="https://embed.tidal.com/albums/242542593?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
