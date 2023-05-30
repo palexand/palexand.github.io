@@ -5,6 +5,10 @@ title: Publications
 
 # Selected Publications
 
+* Fritz, A. and P. Alexander, "Policy-based Attestation Protocol
+  Negotiation," _NASA Formal Methods Symposium (NFM'23)_,
+  Houston, TX, May 16-18, 2023.
+
 * Petz, A. and P. ALexander, "Formally veriﬁed bundling and appraisal
   of evidence for layered attestations," _Innovations in Systems and
   Software Engineering_,
