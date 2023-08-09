@@ -32,7 +32,7 @@ get our papers published, but I do have stories to share.
 * Do not be cute
 * Do not be negative
 * Do not hide limitations of your work
-* Do not use any more words than are necessary
+* Do not use more words than are necessary
 * Do use parallel construction
 * Do use fonts and styles consistently and meaningfully
 * Do think about Occam's razor
@@ -121,7 +121,7 @@ the SPJ paper, it still says basically the same thing.
 * Not a summary of the paper
 * A descriptor for the librarian to classify it
 * A descriptor for readers to select it
-* If it's not good, NO ONE will read the paper
+* If it's not good, **NO ONE** will read the paper
 
 ### Introduction:
 * Introduction is always necessary
@@ -132,7 +132,7 @@ the SPJ paper, it still says basically the same thing.
 * Summarize what you did, highlighting your contribution
 * Always have an overview figure
 * A good place for basic background and history (I disagree with SPJ here)
-* If it's not good, NO ONE will read the paper
+* If it's not good, **NO ONE** will read the paper
 
 ### Technical Description:
 * Overview your work point by point
@@ -218,7 +218,7 @@ the SPJ paper, it still says basically the same thing.
   is not. 
 * Get others to read your work before you submit.
 * Start early.  Very early.  Way earlier than you think you need to.
-* Use git/cvs/svn to share your papers when writing.
+* Use git to share your papers when writing.
 * Use LaTeX and BibTeX.
 * Use the active voice
 * Avoid meaningless words such as 'very', 'really', and the like
@@ -227,6 +227,5 @@ the SPJ paper, it still says basically the same thing.
 * Paragraphs should always have more than one sentence.  Choose good
   introductory sentences that are descriptive of the message.  A
   reader should be able to read the paper quickly by simply reading
-  the first sentence of every paragraph. 
-
-
+  the first sentence of every paragraph.
+  
