@@ -17,7 +17,7 @@
   github: ku-sldg
   repo:
   description: "FAA A58 is tasked with establishing the need for a UAS cybersecurity framework.  Working with Drexel University and Oregon State University we are exploring cybersecurity issues that make UAS systems different than traditional piloted systems.  We will develop a framework for cybersecurity assessment informed by those differences."
-  sponsor: Federal Aviation Agency (FAA) ASSURE Program
+  sponsor: Federal Aviation Administration (FAA) ASSURE Program
 
 - name: Lifecycle Attestation
   ghpages:
