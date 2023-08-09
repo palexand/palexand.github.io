@@ -1,16 +1,9 @@
-- name: National Security Agency Science of Security Lablet
+- name: Honeywell Additive Manufacturing Trust
   ghpages:
   github: ku-sldg
   repo:
-  description: "KU ITTC is one of 6 Science of Security Lablets established by the National Security Agency.  For more information, visit our lablet page on the [Science of Security Virtual Organization](https://cps-vo.org/sos/lablet/ku)."
-  sponsor: NSA Science of Security initiative contract #H98230-18-D-0009
-
-- name: Scalable Trust Semantics and Infrastructure
-  ghpages:
-  github: ku-sldg
-  repo:
-  description: "The objective of the Scalable Trust Semantics and Infrastructure project is development of a semantics for measurement along with a collection of tools that implement that semantics."
-  sponsor: NSA Science of Security initiative contract #H98230-18-D-0009
+  description: "The objective of the Additive Manufacturing Trust project is development of means for assuring trust in a 3D printer."
+  sponsor: Kansas City National Security Campus
 
 - name: University Blockchain Research Initiative (UBRI)
   ghpages:
@@ -19,33 +12,19 @@
   description: "KU ITTC is one of 25 University research centers to receive a gift from Ripple to explore aspects of blockchain technology. As a part of our UBRI gift we are looking at recording and distributing biodiversity data, resiliency, IoT and blockchain, trusted blockchain infrastructure, and blockchain as art."
   sponsor: Ripple UBRI
 
-- name: StairCASE
+- name: FAA A58
   ghpages:
   github: ku-sldg
   repo:
-  description: "The objective of the DARPA StairCASE effort is to develop semantics and tools for integrating remote attestation with static analysis and develop formally verified and synthesized remote attestation infrastructure."
-  sponsor: DARPA CASE, Collins Aerospace industry prime
+  description: "FAA A58 is tasked with establishing the need for a UAS cybersecurity framework.  Working with Drexel University and Oregon State University we are exploring cybersecurity issues that make UAS systems different than traditional piloted systems.  We will develop a framework for cybersecurity assessment informed by those differences."
+  sponsor: Federal Aviation Agency (FAA) ASSURE Program
 
-- name: VOLTA
+- name: Lifecycle Attestation
   ghpages:
   github: ku-sldg
   repo:
-  description: "The objective of the VOLTA effort is to learn timed automata from a given system and discover vulnerabilities by examining that automata.  Our role in VOLTA is discovering protocols and alphabets for a learner to exercise in learning and the automata."
-  sponsor: AFRL, Adventium Labs industry prime
-
-- name: Honeywell Additive Manufacturing Trest
-  ghpages:
-  github: ku-sldg
-  repo:
-  description: "The objective of the Additive Manufacturing Trust project is development of means for assuring trust in a 3D printer."
-  sponsor: Kansas City National Security Campus
-
-- name: Honeywell Test Equipment Trust
-  ghpages:
-  github: ku-sldg
-  repo:
-  description: "The objective of the Test Equipment Trust project is development of means for assuring trust in test equipment and protect secrets on compromised or misconfigured systems."
-  sponsor: Kansas City National Security Campus
+  description: "The objective of the DARPA Lifecycle Attestation program is investigating application of remote attestation techniques across the design lifecycle."
+  sponsor: DARPA I2O seedling, Collins Aerospace industry prime
 
 - name: Programming Langauges in Haskell
   github: ku-sldg
