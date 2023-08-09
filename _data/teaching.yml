@@ -9,6 +9,8 @@
   github: palexand
   repo: eecs662
   description: This course is an undergraduate introduction to programming language concepts. It is taught by implementing a collection of interpreters that implement language features. Specific topics include structuring an interpreter, abstract syntax, early and late binding, laziness and strictness, function definition and application, static an dynamic scoping, and techniques for implementing these features.
+  where: G415 LEEP2
+  when: 2:30-3:45 TR
   
 - name: EECS 742 - Static Analysis
   github: palexand
