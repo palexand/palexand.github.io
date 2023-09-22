@@ -28,7 +28,6 @@ Contact
 : palexand \[at\] ku \[dot\] edu
 : 785-864-7741 (Voice)
 : 785-864-0387 (FAX)
-: perry_alexander (skype)
 : [ORCID](https://orcid.org/0000-0002-5387-9157)
 : [GPG Public Key]({{ site.baseurl }}/resources/PerryAlexander.asc)
 
@@ -61,5 +60,4 @@ component retrieval. For more information, visit my
 ----
 My full [vita]({{ site.baseurl }}/resources/vitae.pdf) should you be interested.
 
-> “Barba non facit philosophum”
-> (A beard does not make one a philosopher)
+> “Barba non facit philosophum” (A beard does not make one a philosopher)
