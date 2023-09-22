@@ -56,8 +56,10 @@ trusted computing, design and specification language semantics, and
 component retrieval. For more information, visit my 
 [research](research) or the [SLDG](http://ku-sldg.github.io) pages.
 
+> “Barba non facit philosophum” (A beard does not make one a philosopher)
+
+
 # Vita
 ----
 My full [vita]({{ site.baseurl }}/resources/vitae.pdf) should you be interested.
 
-> “Barba non facit philosophum” (A beard does not make one a philosopher)
