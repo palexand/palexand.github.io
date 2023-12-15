@@ -4,7 +4,10 @@ title: Dr. Perry Alexander
 ---
 
 I am the AT&T Foundation Distinguished Professor of Electrical and
-Computer Science and Director of the Institute for Information Sciences at the University of Kansas.  My research and teaching interests include formal verification and synthesis, trusted systems, and programming language semantics.
+Computer Science and Director of the Institute for Information
+Sciences at the University of Kansas.  My research and teaching
+interests include formal verification and synthesis, trusted systems,
+and programming language semantics.
 
 # Information
 -----
@@ -25,7 +28,6 @@ Contact
 : palexand \[at\] ku \[dot\] edu
 : 785-864-7741 (Voice)
 : 785-864-0387 (FAX)
-: perry_alexander (skype)
 : [ORCID](https://orcid.org/0000-0002-5387-9157)
 : [GPG Public Key]({{ site.baseurl }}/resources/PerryAlexander.asc)
 
@@ -42,13 +44,22 @@ Contact
 
 # Teaching
 ----
-My teaching interests include formal methods, programming languages and semantics, digital systems design and software engineering. For more information on courses I teach, visit my [teaching](teaching) pages.
+My teaching interests include formal methods, programming languages
+and semantics, digital systems design and software engineering. For
+more information on courses I teach, visit my [teaching](teaching)
+pages. 
 
 # Research
 ----
-My research interests include formal methods, system-level design, trusted computing, design and specification language semantics, and component retrieval. For more information, visit my
+My research interests include formal methods, system-level design,
+trusted computing, design and specification language semantics, and
+component retrieval. For more information, visit my 
 [research](research) or the [SLDG](http://ku-sldg.github.io) pages.
+
+> “Barba non facit philosophum” (A beard does not make one a philosopher)
+
 
 # Vita
 ----
 My full [vita]({{ site.baseurl }}/resources/vitae.pdf) should you be interested.
+
