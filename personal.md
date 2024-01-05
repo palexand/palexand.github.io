@@ -89,6 +89,10 @@ impacts, and developing tools to protect blockchain infrastructure.
 
 # Quotes
 
+> Never trust anyone who doesn't like Steely Dan.
+
+Me
+
 > It is of course important that some efforts be made to verify the
 > correctness of assertions that are made about  a  routine.  There  are
 > essentially  two  types  of methods available, the theoretical and the
@@ -114,7 +118,7 @@ David Hilbert, _International Congress of Mathematics_, Paris, 1900
 > I walk the Occam razor way through priests and circus clowns,  
 > am I a missioner of faith or grace or vision or another grinning prisoner of Happytown?
 
-Dave Carter, *Happytown*
+Dave Carter, _Happytown_
 
 >It's mathematics, son! You can argue with me, but you can't argue with figures!
 
