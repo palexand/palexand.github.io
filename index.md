@@ -47,17 +47,22 @@ Contact
 My teaching interests include formal methods, programming languages
 and semantics, digital systems design and software engineering. For
 more information on courses I teach, visit my [teaching](teaching)
-pages. 
+pages.
 
 # Research
 ----
 My research interests include formal methods, system-level design,
 trusted computing, design and specification language semantics, and
-component retrieval. For more information, visit my 
+component retrieval. For more information on my research, visit my 
 [research](research) or the [SLDG](http://ku-sldg.github.io) pages.
 
 > “Barba non facit philosophum” (A beard does not make one a philosopher)
 
+# Personal
+----
+Personal interests include music and stereo gear, running and yoga.
+For more information on what I do for fun and where I come from, visit
+my [personal](personal) pages. 
 
 # Vita
 ----
