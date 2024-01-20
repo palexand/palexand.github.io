@@ -66,5 +66,6 @@ my [personal](personal) pages.
 
 # Vita
 ----
-My full [vita]({{ site.baseurl }}/resources/vitae.pdf) should you be interested.
+My full [vita]({{ site.baseurl }}/resources/vitae.pdf) should you be
+interested.
 
