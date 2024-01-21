@@ -21,4 +21,4 @@ After an up-tempo track that heads way outside for a bit, then album goes back t
 
 I'm sure I just heard a Fender-Rhodes, which seals the deal for me...
 
-If you like the 70's, contemplative, contemplative cool jazz this is your album.  Actually, _Web Web_ is your band.  Fantastic stuff complete with flute, fender, and breathy vocals.  It's hard to beat this if you want to crawl inside your head for a look around or maybe score a detective movie with a flawed, but sympathetic main character.  I've come back to _Worshippers_ over and over, plus visited some of Web Web's other work.  Highly recommended.
+If you like the 70's, contemplative cool jazz this is your album.  Actually, _Web Web_ is your band.  Fantastic stuff complete with flute, fender, and breathy vocals.  It's hard to beat this if you want to crawl inside your head for a look around or maybe score a detective movie with a flawed, but sympathetic main character.  I've come back to _Worshippers_ over and over, plus visited some of Web Web's other work.  Highly recommended.
