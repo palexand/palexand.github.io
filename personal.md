@@ -70,24 +70,32 @@ looking at language
 interpreters and ways of mixing computational models during analysis
 activities, as well as traditional analysis activities.
 
-More recently we started work designing and verifying trusted
-systems using semantic remote attestation. I initially worked on
+Now we work at the intersection of formal methods and remote
+attestation.  I initially worked on
 verification of a trusted system virtual platform built using the 
 Xen infrastructure and then on moving trusted computing into
-the cloud. Today I am PI on the University of Kansas NSA Science of
-Security Lablet and continue developing verified trusted computing
+the cloud. I was lead PI on the University of Kansas NSA Science of
+Security Lablet where we continued developing verified trusted computing
 semantics and infrastructure.  Other Science of Security projects at
-KU examine IoT privacy, resilience ontology and epistemology, side
+KU examined IoT privacy, resilience ontology and epistemology, side
 channel attack resistance, and secure native binary execution.  I am
-also PI on the DARPA CASE effort with Collins Aerospace developing
+was also PI on the DARPA CASE effort with Collins Aerospace developing
 verified trusted computing infrastructure for a UAV ground station.
 
-My my most recent adventure adds blockchain to the mix through a gift
-from Ripple. I am working with biodiversity researchers to tokenize
+Work with NSA on trusted systems continues as a part of the Trusted
+Systems Virtual Institute.  We continue to expand attestation
+capabilies by develping a semantics for evidence, a taxonomy of
+flexible attestation mechanisms, and performing empirical case
+studies.
+
+Among my interdisciplinary adventures is working through a gift
+from Ripple's University Blockchain Initiative (UBRI) to explore
+various aspects of blockchain and its impacts. I am working with
+biodiversity researchers to tokenize 
 biological data, working with artists and writers to explore social
 impacts, and developing tools to protect blockchain infrastructure.
 
-# Quotes
+# Notes and Quotes
 
 > Never trust anyone who doesn't like Steely Dan.
 
