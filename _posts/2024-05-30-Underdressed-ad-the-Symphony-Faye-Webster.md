@@ -3,6 +3,8 @@ layout: blog
 categories: blog music
 title: Underdressed at the Symphony - Faye Webster
 ---
+<div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 50%;"><iframe src="https://embed.tidal.com/albums/329221158?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
+
 Oh my.  [Faye Webster](https://tidal.com/artist/8517573?u) has an amazing album on her hands in [Underdressed at the Symphony](https://tidal.com/album/329221158?u). 
 
 Opening tune “Thinking About You” just melts you into your chair.  Cool singer songwriter groove executed perfectly with a simple bass, guitar, drums. Until what sounds like a glockenspiel. It works. Trust me.  Works on the beach, in the mountains, driving with the sunroof open.  Nothing pleases quite like this.
