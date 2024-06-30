@@ -111,6 +111,10 @@ impacts, and developing tools to protect blockchain infrastructure.
 
 Me
 
+> It is easier to write a new code than understand an old one.
+
+John von Neumann in 1952
+
 > It is of course important that some efforts be made to verify the
 > correctness of assertions that are made about  a  routine.  There  are
 > essentially  two  types  of methods available, the theoretical and the
