@@ -26,6 +26,16 @@ select the music keyword for artists
 and music or the gear keyword for info on playback systems. Taste is
 personal -- your mileage will vary.
 
+# Great Band Names
+
+In my travels I've come up with some really geat band names, none of
+which will ever be used. I'm going to list a few here. If you want to
+use one for your band, please do let me know.  I would be deeply
+honored.
+
+- Undecidability of Monotonic Happiness - Best for an emo band I
+  think.
+
 # Bio
 
 I started my University studies at The University of Kansas majoring
