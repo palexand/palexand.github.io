@@ -88,7 +88,7 @@ the cloud. I was lead PI on the University of Kansas NSA Science of
 Security Lablet where we continued developing verified trusted computing
 semantics and infrastructure.  Other Science of Security projects at
 KU examined IoT privacy, resilience ontology and epistemology, side
-channel attack resistance, and secure native binary execution.  I am
+channel attack resistance, and secure native binary execution.  I
 was also PI on the DARPA CASE effort with Collins Aerospace developing
 verified trusted computing infrastructure for a UAV ground station.
 
