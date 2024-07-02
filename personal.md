@@ -35,7 +35,8 @@ honored.
 
 - Undecidability of Monotonic Happiness - Best for an emo band I
   think.
-- The Technoelders - Probably neo-funk band.  Thanks to Joey Orr for
+- The Technoelders - Probably a neo-funk band.  Must have a Hammond
+  B-3.  Thanks to Joey Orr for
   this one.
 
 # Bio
