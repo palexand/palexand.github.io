@@ -35,6 +35,8 @@ honored.
 
 - Undecidability of Monotonic Happiness - Best for an emo band I
   think.
+- The Technoelders - Probably neo-funk band.  Thanks to Joey Orr for
+  this one.
 
 # Bio
 
