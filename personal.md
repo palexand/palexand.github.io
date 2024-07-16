@@ -38,6 +38,8 @@ honored.
 - The Technoelders - Probably a neo-funk band.  Must have a Hammond
   B-3.  Thanks to Joey Orr for
   this one.
+- The Atomic Gs - Definitely a ska band.  Name comes from the
+  translation of RESOLUTE semantics to Copland. 
 
 # Bio
 
