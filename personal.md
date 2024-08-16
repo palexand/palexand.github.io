@@ -40,6 +40,8 @@ honored.
   this one.
 - The Atomic Gs - Definitely a ska band.  Name comes from the
   translation of RESOLUTE semantics to Copland. 
+- Inajujudavida - Mashup of Alice Cooper and Iron Butterfly. Must be a
+  metal band.  Thanks Jack!
 
 # Bio
 
