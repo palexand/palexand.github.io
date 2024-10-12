@@ -41,6 +41,8 @@ honored.
   translation of RESOLUTE semantics to Copland. 
 - Inajujudavida - Mashup of Alice Cooper and Iron Butterfly. Must be a
   metal band.  Thanks Jack!
+- Speaking Without Words - Very profound indie folk band.  Lots of
+  Dylan covers.
 
 # Bio
 
