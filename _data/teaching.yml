@@ -11,8 +11,6 @@
   github: palexand
   repo: eecs662
   description: This course is an undergraduate introduction to programming language concepts. It is taught by implementing a collection of interpreters that implement language features. Specific topics include structuring an interpreter, abstract syntax, early and late binding, laziness and strictness, function definition and application, static an dynamic scoping, and techniques for implementing these features.
-  when: 2:30-3:45 TR
-  where: G415 LEEP2 
   
 - name: EECS 742 - Static Analysis
   github: palexand
@@ -28,6 +26,8 @@
   github: palexand
   repo: eecs755
   description: Software Requirements Modeling is an advanced introduction to modern techniques for specification, verification and implementation of software systems. Topics covered are equally useful for hardware and software verification. We will learn to write formal specifications, refine specifications and verify that implementations meet their requirements. Specific topics include axiomatic specification, invariants, algebraic types and induction, constructive specification, assume-guarantees style specification, safety and liveness, and natural deduction. Currently we use the Coq verification tool, but techniques learned apply equally well to other verification systems.
+  where: 1136 Learned Hall
+  when: 2:30-3:45 TR
 
 - name: EECS 843 - Programming Language Foundations II
   github: palexand
