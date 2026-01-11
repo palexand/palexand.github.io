@@ -9,7 +9,7 @@ title: Publications
   Negotiation," _NASA Formal Methods Symposium (NFM'23)_,
   Houston, TX, May 16-18, 2023.
 
-* Petz, A. and P. ALexander, "Formally veriﬁed bundling and appraisal
+* Petz, A. and P. Alexander, "Formally verified bundling and appraisal
   of evidence for layered attestations," _Innovations in Systems and
   Software Engineering_,
   [https://doi.org/10.1007/s11334-022-00475-1](https://doi.org/10.1007/s11334-022-00475-1),
@@ -24,7 +24,7 @@ title: Publications
   International Conference on Formal Methods and Models for System
   Design (MEMOCODE'21)_, Virtual, Nov 20-22, 2021.
 
-* Petz, A. and P. Alexader, "An Infrastructure for Faithful Execution
+* Petz, A. and P. Alexander, "An Infrastructure for Faithful Execution
   of Remote Attestation Protocols," *NASA Formal Methods Symposium
   (NFM'21)*, May 24-28, 2021, Norfolk, VA.
 
