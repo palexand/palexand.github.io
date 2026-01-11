@@ -1,7 +1,7 @@
 ---
 layout: blog
 categories: blog music gear movies project exam homework
-title: Strictly Smokin' and Friends - Strictly Smokin' Big Bang
+title: Strictly Smokin' and Friends - Strictly Smokin' Big Band
 ---
 <div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 50%;"><iframe src="https://embed.tidal.com/albums/363558670?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
 
