@@ -22,8 +22,8 @@ rise up, then bring it home.  Just about perfect.
 
 Of course Pat and Lyle went on to make a ton of amazing albums.  _American
 Garage_ doesn't get much love these days, but it was important for me.  Music
-that was jazz, but was modern and fresh.  It made us think about music and that
-made us think about the world.
+that was jazz, but was modern and fresh.  It made us think about music and
+thinking is good.
 
 Today was a great day at the record store.  I found a near mint copy of
 _American Garage_ and snapped it up immediately.  Now I just need a Frisbee,
