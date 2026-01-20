@@ -23,7 +23,7 @@ be called a rock band.  Certainly elements of jazz present and plenty of
 saxophone, but I also hear twinges of The Eagles and a general lean towards
 yacht rock.  I might be alone in this, but Steely Dan is not a jazz band.
 
-“Do It Again” opens the album on a high note. Classic rock-'n'-roll.
+“Do It Again” opens the album on a high note. Classic rock-n-roll.
 
 Stuffed between “Do It Again” and “Midnight Cruiser” is “Kings”.  The only thing
 wrong with “Kings” is where it happens to fall. The lyrics are set around the
