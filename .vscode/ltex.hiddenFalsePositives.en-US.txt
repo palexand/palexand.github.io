@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q“Paradise” features one of my favorite americana/folk singers Sam Amidon.\\E$"}
+{"rule":"LOTS_OF_NN","sentence":"^\\QCertainly elements of jazz present and plenty of saxophone, but I also hear twinges of The Eagles and a general lean towards yacht rock.\\E$"}
