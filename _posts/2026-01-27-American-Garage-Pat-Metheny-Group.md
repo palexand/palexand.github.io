@@ -3,6 +3,9 @@ layout: blog
 categories: music blog
 title: Pat Metheny Group - American Garage
 ---
+
+<div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 50%;"><iframe src="https://embed.tidal.com/albums/149753705?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
+
 The year is 1978, and I am a junior at Platte County R-III high school, sitting
 Biology II learning something about critters or plants that I have long since
 forgotten.  Our teacher, Mr. Goodlet, decides to show a film series called _The
