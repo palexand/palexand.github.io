@@ -26,4 +26,4 @@ listened.  Haunting, unhurried, uncomplicated gospel music that steals your
 breath.  “Louisiana” sounds initially like something from Benjamin Britton, but
 on closer listen you can hear echos of the old south pushing forward.
 
-Unquestionably brilliant.  Among my top 5 of 2025.  Please give it a listen.
+Unquestionably brilliant.  Among my top 5 of 2025.  Give it a listen.
