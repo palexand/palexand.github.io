@@ -1,3 +1,12 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q“Paradise” features one of my favorite americana/folk singers Sam Amidon.\\E$"}
 {"rule":"LOTS_OF_NN","sentence":"^\\QCertainly elements of jazz present and plenty of saxophone, but I also hear twinges of The Eagles and a general lean towards yacht rock.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QOur teacher, Mr. Goodlet, decides to show a film series called The Search for Solutions.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QTo make a long story short, I'm a big fan of ATI, Bryston and Classe amplification, Benchmark DACs, Grado, Entymotic and Sennheiser headphones.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QUndecidability of Monotonic Happiness - Best for an emo band I think.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe Technoelders - Probably a neo-funk band.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QInajujudavida - Mashup of Alice Cooper and Iron Butterfly.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMy interests in formal methods continued and with David Barton and Peter Ashenden, I developed the Rosetta systems-level specification language.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q...shootin fools and starry gazers, wizard hip and button down, I walk the Occam razor way through priests and circus clowns, am I a missioner of faith or grace or vision or another grinning prisoner of Happytown?\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDave Carter, Happytown\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QYou may grow old and trembling in your anatomies, you may lie awake at night listening to the disorder of your veins, you may miss your only love, you may see the world around you devastated by evil lunatics, or know your honour trampled in the sewers of baser minds.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QShams-ud-din Muhammad (Hafiz)\\E$"}
