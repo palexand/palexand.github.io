@@ -10,3 +10,5 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDave Carter, Happytown\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QYou may grow old and trembling in your anatomies, you may lie awake at night listening to the disorder of your veins, you may miss your only love, you may see the world around you devastated by evil lunatics, or know your honour trampled in the sewers of baser minds.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QShams-ud-din Muhammad (Hafiz)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHaunting trumpet and Hornsby-esque harmonies.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHere I'm listening to Deep Sea Vents from Brhym, a collaboration between Bruce Hornsby and yMusic, one of my favorite classical ensembles.\\E$"}
