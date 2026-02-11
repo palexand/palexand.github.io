@@ -16,7 +16,7 @@ considered it.  Snarkiness aside, I decided to try out the AI features by
 generating an image for each slide from the title of the slide.  Here is an
 example of what was generated for the prompt "The AI Winter":
 
-<img src="{{ site.baseurl }}/resources/AI Winger.png" alt="AI Winger" height=159 width=159>
+<img src="{{ site.baseurl }}/resources/AI Winter.png" alt="AI Winger" height=159 width=159>
 
 I think this is a pretty cool image and was starting to warm up to the whole
 idea of AI assistance.
