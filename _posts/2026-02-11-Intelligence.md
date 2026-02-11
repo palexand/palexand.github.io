@@ -16,7 +16,7 @@ considered it.  Snarkiness aside, I decided to try out the AI features by
 generating an image for each slide from the title of the slide.  Here is an
 example of what was generated for the prompt "The AI Winter":
 
-<img src="{{ site.baseurl }}/resources/AI Winter.png" alt="AI Winger" height=159 width=159>
+<img src="{{ site.baseurl }}/resources/AI Winter.png" alt="AI Winter" height=159 width=159>
 
 I think this is a pretty cool image and was starting to warm up to the whole
 idea of AI assistance.
@@ -27,6 +27,6 @@ The last slide in my presentation is titled "Is This Intelligence?".  I
 dutifully prompted the Apple AI for an image.  Here is the slide with the image
 embedded:
 
-
+<img src="{{ site.baseurl }}/resources/AI Winter.png" alt="AI Winter" height=50% width=50%>
 
 I don't know whether to laugh or cry...
