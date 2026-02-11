@@ -16,7 +16,7 @@ considered it.  Snarkiness aside, I decided to try out the AI features by
 generating an image for each slide from the title of the slide.  Here is an
 example of what was generated for the prompt "The AI Winter":
 
-<div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 50%;"><iframe src="{{ site.baseurl }}/resources/AI Winter" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
+<div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 50%;"><iframe src="{{ site.baseurl }}/resources/AI Winter.png" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
 
 I think this is a pretty cool image and was starting to warm up to the whole
 idea of AI assistance.
