@@ -1,6 +1,6 @@
 ---
 layout: blog
-cagegories: blog
+categories: blog
 title: Intelligence
 ---
 Yesterday I had a blast giving an overview of AI and LLMs to a class of law and
