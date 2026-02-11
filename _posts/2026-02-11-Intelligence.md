@@ -27,6 +27,6 @@ The last slide in my presentation is titled "Is This Intelligence?".  I
 dutifully prompted the Apple AI for an image.  Here is the slide with the image
 embedded:
 
-<img src="{{ site.baseurl }}/resources/AI Winter.png" alt="AI Winter" height=50% width=50%>
+<img src="{{ site.baseurl }}/resources/ntelligence.png" alt="ntelligence" height=159 width=159>
 
 I don't know whether to laugh or cry...
