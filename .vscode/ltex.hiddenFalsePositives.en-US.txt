@@ -12,3 +12,4 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QShams-ud-din Muhammad (Hafiz)\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHaunting trumpet and Hornsby-esque harmonies.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHere I'm listening to Deep Sea Vents from Brhym, a collaboration between Bruce Hornsby and yMusic, one of my favorite classical ensembles.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSnarkiness aside, I decided to try out the AI features by generating an image for each slide from the title of the slide.\\E$"}
