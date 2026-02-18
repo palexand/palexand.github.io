@@ -34,7 +34,7 @@ musicians rarely wrote their own music.  Instead they got their songs from
 commercial music publishers like the Brill Building or independents like the
 aforementioned Jimmy Webb.
 
-Jimmy had written big hits for Glenn Campbell called "When You Get To Phoenix"
+Jimmy had written big hits for Glenn Campbell called "By The Time I Get To Phoenix"
 and "Galveston".  Campbell wanted to ride the wave of these geographical songs
 and called on Webb to quickly write a new song for him.  That song was inspired
 by the solitary men who worked the phone and electric lines in west Texas where
