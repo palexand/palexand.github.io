@@ -5,6 +5,10 @@ title: Publications
 
 # Selected Publications
 
+* Will Thomas, Logan Schmalz, Adam Petz, Perry Alexander, Joshua D. Guttman,
+  Paul D. Rowe, James Carter, "Designing Trustworthy Layered Attestations,"
+  [https://arxiv.org/abs/2603.06326](https://arxiv.org/abs/2603.06326), March 2026.
+
 * Fritz, A. and P. Alexander, "Policy-based Attestation Protocol
   Negotiation," _NASA Formal Methods Symposium (NFM'23)_,
   Houston, TX, May 16-18, 2023.

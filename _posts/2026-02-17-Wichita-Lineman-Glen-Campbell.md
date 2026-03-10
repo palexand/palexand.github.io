@@ -60,4 +60,3 @@ about that song.  Yes it is structurally different and leaves an unresolved
 chord at the end and features a bass solo from Carol Kay.  All that aside, it is
 just a beautiful song that came together in a unique and haphazard way.  Here's
 to serendipity.
-
