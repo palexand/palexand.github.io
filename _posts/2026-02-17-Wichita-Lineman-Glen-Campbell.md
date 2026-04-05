@@ -44,7 +44,7 @@ up a phone pole.  But somehow it worked.
 
 Webb delivered the "Wichita Lineman" demo in very rough form.  Typical of the
 songs The Wrecking Crew filled out all the time.  Campbell took the demo to the
-studio, Carol Kay filled in the base parts and the strings followed.  When Jimmy
+studio, Carol Kay filled in the bass parts and the strings followed.  When Jimmy
 Web didn't hear back from Campbell he assumed that he did not like the song.  On
 the contrary, Campbell had already cut the tracks.  Webb panicked because the
 song was not done.  So much so that he hauled the organ from his home into the
