@@ -13,3 +13,6 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHaunting trumpet and Hornsby-esque harmonies.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHere I'm listening to Deep Sea Vents from Brhym, a collaboration between Bruce Hornsby and yMusic, one of my favorite classical ensembles.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSnarkiness aside, I decided to try out the AI features by generating an image for each slide from the title of the slide.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QArtists ranging from big band crooners like Kurt Elling to jazz singers like Cassandra Wilson to rockers like REM have recorded their own versions of \"Wichita Lineman\".\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QI just heard a great cover of \"Wichita Lineman\" by Kurt Elling and thought I would go hunting.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIt's also important to know how house bands like The Wrecking Crew, The Funk Brothers, and Booker T and the MGs worked.\\E$"}

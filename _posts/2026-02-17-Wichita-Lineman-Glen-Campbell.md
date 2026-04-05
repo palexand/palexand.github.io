@@ -14,7 +14,7 @@ rekindled a love for this music.
 performed by Glen Campbell on the album of the same name.  We all know that.
 But how did this come to be?  Glen Campbell was a member of The Wrecking Crew,
 the famed west coast house band that backed an astonishing collection of albums
-in the 60's and 70's.  These folks were A-list studio players and Glen Campbell
+in the 60s and 70s.  These folks were A-list studio players and Glen Campbell
 was among their best even though he couldn't read music.  Hal Blaine and Carol
 Kay were there among many others.  But Glen Campbell was every bit an A-List
 guitar player.
