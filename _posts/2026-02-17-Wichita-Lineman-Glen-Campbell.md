@@ -49,7 +49,7 @@ Web didn't hear back from Campbell he assumed that he did not like the song.  On
 the contrary, Campbell had already cut the tracks.  Webb panicked because the
 song was not done.  So much so that he hauled the organ from his home into the
 studio to add to the mix.  It had to be that organ from that house to get that
-sound excactly that that demo.
+sound exactly like that demo.
 
 The rest is history as they say.  "Wichita Lineman" was a huge, multi-platinum
 hit.  Bob Dylan claims it is the best song ever written.  It has been covered
