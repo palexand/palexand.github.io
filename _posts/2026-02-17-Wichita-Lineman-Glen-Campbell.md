@@ -30,7 +30,7 @@ residuals or public recognition for their work.
 Glenn Campbell emerged from The Wrecking Crew as a music and movie star.  Played
 opposite John Wayne in _True Grit_ for example.  Even had his own variety show.
 He was a star and became a star playing songs by Jimmy Webb.  During this period
-musicians rarely wrote their own music.  Instead they got their songs from
+musicians rarely wrote their own music.  Instead, they got their songs from
 commercial music publishers like the Brill Building or independents like the
 aforementioned Jimmy Webb.
 
