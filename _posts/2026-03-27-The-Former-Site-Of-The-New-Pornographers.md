@@ -10,9 +10,20 @@ title: The Former Site Of - The New Pornographers
 
 It's been a while since we've heard from [The New Pornographers](https://thenewpornos.bandcamp.com), and [_The Former Site Of_](https://thenewpornos.bandcamp.com/album/the-former-site-of) arrives under circumstances that are, to put it gently, complicated.  Drummer Joe Seiders was arrested on deeply disturbing charges shortly after recording, and the band immediately severed ties, erased his tracks entirely, and brought in session drummer Charley Drayton to redo everything.  That Drayton is best known for recording "Love Shack" with the B-52s is either ironic or fitting, depending on your disposition.  Newman has called the whole experience "dark, weird, and confusing."  Hard to argue with that.
 
-What's remarkable is that the album itself doesn't feel dark or chaotic.  Newman reportedly wrote it as ten short stories, each centered on a character pushed to some kind of personal or social extreme.  That conceit doesn't announce itself loudly — you have to lean in to catch it — but it gives the record a subtle coherence that their recent work sometimes lacked.
+What's remarkable is that the album itself doesn't feel dark or chaotic.  It
+feels very much like a New Pornographers album if a bit more subdued than usual.
+Newman reportedly wrote it as ten short stories, each centered on a
+character pushed to some kind of personal or social extreme.  That conceit
+doesn't announce itself loudly — you have to lean in to catch it — but it gives
+the record a subtle coherence that their recent work sometimes lacked.
 
-This is a quieter New Pornographers than we're used to.  The big melodic cannonballs of _Mass Romantic_ or _Electric Version_ are largely absent.  In their place is something more introspective, a little muted, what one reviewer aptly called burning "several degrees cooler than its glimmering exterior."  The layered vocals from Newman, [Neko Case](https://tidal.com/browse/artist/7488), and Kathryn Calder are still very much present and gorgeous as ever.  But the arrangements feel more restrained.
+This is a quieter New Pornographers than we're used to.  The big melodic
+flourishes of _Mass Romantic_ or _Electric Version_ are largely absent.  In
+their place is something more introspective, a little muted, what one reviewer
+aptly called burning "several degrees cooler than its glimmering exterior."  The
+layered vocals from Newman, [Neko Case](https://tidal.com/browse/artist/7488),
+and Kathryn Calder are still very much present and gorgeous as ever.  But the
+arrangements feel more restrained, but the harmonies are there.
 
 Lead single "Votive" eases you in nicely — atmospheric and measured, with that signature harmonic density that makes the New Pornographers unmistakably themselves.  "Pure Sticker Shock" picks up the tempo a bit and reminds you they can still write a hook.  "Spooky Action" is the one that keeps replaying in my head, which is either because it's the best track or because the title is irresistible to someone who teaches physics-adjacent topics.  Possibly both.
 
