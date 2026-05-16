@@ -9,8 +9,9 @@ Sciences at the University of Kansas.  My research and teaching
 interests include formal verification and synthesis, trusted systems,
 and programming language semantics.
 
-# Information
------
+## Information
+
+---
 
 Institute for Information Sciences
 : The University of Kansas
@@ -29,7 +30,7 @@ Contact
 : 785-864-7741 (Voice)
 : 785-864-0387 (FAX)
 : [ORCID](https://orcid.org/0000-0002-5387-9157)
-: [GPG Public Key]({{ site.baseurl }}/resources/PerryAlexander.asc) 
+: [GPG Public Key]({{ site.baseurl }}/resources/PerryAlexander.asc)
 
 <dl>
 <dt>Current Courses and Office Hours</dt>
@@ -42,30 +43,37 @@ Contact
 <dd>Office Hours - {{ site.ohrs }} in {{ site.ohrsoff }}</dd>
 </dl>
 
-# Teaching
-----
+## Teaching
+
+---
+
 My teaching interests include formal methods, programming languages
 and semantics, digital systems design and software engineering. For
 more information on courses I teach, visit my [teaching](teaching)
 pages.
 
-# Research
-----
+## Research
+
+---
+
 My research interests include formal methods, system-level design,
 trusted computing, design and specification language semantics, and
-component retrieval. For more information on my research, visit my 
+component retrieval. For more information on my research, visit my
 [research](research) or the [SLDG](http://ku-sldg.github.io) pages.
 
 > “Barba non facit philosophum” (A beard does not make one a philosopher)
 
-# Personal
-----
+## Personal
+
+---
+
 Personal interests include music and stereo gear, running and yoga.
 For more information on what I do for fun and where I come from, visit
-my [personal](personal) pages. 
+my [personal](personal) pages.
 
-# Vita
-----
+## Vita
+
+---
+
 My full [vita]({{ site.baseurl }}/resources/vitae.pdf) should you be
 interested.
-

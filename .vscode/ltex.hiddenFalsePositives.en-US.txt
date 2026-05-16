@@ -16,3 +16,6 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QArtists ranging from big band crooners like Kurt Elling to jazz singers like Cassandra Wilson to rockers like REM have recorded their own versions of \"Wichita Lineman\".\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QI just heard a great cover of \"Wichita Lineman\" by Kurt Elling and thought I would go hunting.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIt's also important to know how house bands like The Wrecking Crew, The Funk Brothers, and Booker T and the MGs worked.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qpalexand \\[at\\] ku \\[dot\\] edu\n785-864-7741 (Voice)\n785-864-0387 (FAX)\nORCID\nGPG Public Key({{ site.baseurl }}/resources/PerryAlexander.asc)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q“Barba non facit philosophum” (A beard does not make one a philosopher)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMy full vita({{ site.baseurl }}/resources/vitae.pdf) should you be interested.\\E$"}
