@@ -5,17 +5,17 @@ title: Personal
 
 ## Artists, Music and Gear
 
-I keep a [blog](blog.html) where I describe of the artists and music I listen to
+I keep a [blog](blog.html) where I describe some of the artists and music I listen to
 and the stereo gear that I use for playback. I find it exceedingly difficult to
 find new music that I enjoy. My interests are pretty eclectic ranging from jazz
-through indie pop and folk to ska with about everything in between. Although the
+through indie pop and folk to ska with just about everything in between. Although the
 web has changed things for the better, it's still difficult to find new artists
 that I like.
 
-I also tend to be a bit of a gear-head - I like listening and learning about
-home audio gear. I have also put together some advice for first time high-end
-stereo buyers. To make a long story short, I'm a big fan of ATI, Bryston and
-Classe amplification, Benchmark DACs, Grado, Entymotic and Sennheiser
+I also tend to be a bit of a gear-head -- I like listening and learning about
+home audio gear. I have also put together some advice for first-time high-end
+stereo buyers. To make a long story short, I'm a big fan of ATI, Audio Research,
+and Bryston amplification; Benchmark DACs; Grado, Etymotic and Focal
 headphones. I also have Snell type C/V speakers and CAL digital sources that I
 love, but both of those companies have since been purchased and killed off.
 Visit the blog and select the music keyword for artists and music or the gear
@@ -45,7 +45,7 @@ honored.
 I started my University studies at The University of Kansas majoring
 in Trumpet Performance. I had every intent of becoming a jazz
 musician, but something happened along the way. A great deal of it was
-realizing what it meant to be a professional musician and realizing
+realizing what it meant to be a professional musician and recognizing
 the danger of making your avocation your vocation. I ended up
 receiving the BSCS and BSEE degrees in 1986, continuing to perform in
 ensembles throughout my undergraduate studies.
@@ -75,8 +75,8 @@ Professor of Electrical Engineering and Computer Science, and a principal
 investigator with the Information and Telecommunications Technology Center. In
 2005, I was promoted to Professor. My interests in formal methods continued and
 with David Barton and Peter Ashenden, I developed the Rosetta systems-level
-specification language.  We published one book with Morgan Kaufman and the
-beginnings of an IEEE standard and while the ideas behind Rosetta live on in
+specification language.  We published one book with Morgan Kaufmann and the
+beginnings of an IEEE standard, and while the ideas behind Rosetta live on in
 systems engineering languages like AADL and SySML, the Rosetta effort ended in
 the mid 2000s. I continue to find myself looking at language interpreters and
 ways of mixing computational models during analysis activities, as well as
@@ -94,7 +94,7 @@ Aerospace developing verified trusted computing infrastructure for a UAV ground
 station.
 
 Work with NSA on trusted systems continues as a part of the Trusted Systems
-Virtual Institute.  We continue to expand attestation capabilies by develping a
+Virtual Institute.  We continue to expand attestation capabilities by developing a
 semantics for evidence, a taxonomy of flexible attestation mechanisms, and
 performing empirical case studies.
 
@@ -132,7 +132,7 @@ Alan Turing (quoted by D. MacKenzie in _Risk and Reason_)
 > the way to methods which are more capable of development than the
 > old methods of less rigor.
 
-David Hilbert, _International Congress of Mathematics_, Paris, 1900
+David Hilbert, _International Congress of Mathematicians_, Paris, 1900
 
 > ...shootin fools and starry gazers, wizard hip and button down,  
 > I walk the Occam razor way through priests and circus clowns,  
@@ -140,11 +140,11 @@ David Hilbert, _International Congress of Mathematics_, Paris, 1900
 
 Dave Carter, _Happytown_
 
->It's mathematics, son! You can argue with me, but you can't argue with figures!
+> It's mathematics, son! You can argue with me, but you can't argue with figures!
 
 Foghorn Leghorn
 
->If anybody wants to keep creating, they have to be about change.
+> If anybody wants to keep creating, they have to be about change.
 
 Miles Davis
 
@@ -152,7 +152,7 @@ Miles Davis
 
 Epictetus
 
-> It is easier to be gigantic than beautiful
+> It is easier to be gigantic than beautiful.
 
 Friedrich Nietzsche
 
