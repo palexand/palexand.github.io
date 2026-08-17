@@ -9,7 +9,7 @@ My current home setup for music:
 
 * Roon Nucleus Media Player
 * Pro-Ject Carbon 3 Turntable
-* Sumiko Moonstone Cartridge 
+* Sumiko Moonstone Cartridge
 * Parasound Zphono XRM MM/MC Phono Preamp
 * Benchmark DAC2 D/A and Preamp
 * Symmetra SymNet 8x8 DSP Crossover

@@ -39,6 +39,7 @@ honored.
   metal band.  Thanks, Jack!
 - Speaking Without Words - Very profound indie folk band.  Lots of
   Dylan covers.
+- Illicit Axioms - Techno band.  Could be metal.  We're not sure.
 
 ## Bio
 
